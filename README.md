@@ -59,6 +59,36 @@
 
 ---
 
+<h2>📁 Estrutura de Arquivos</h2>
+<pre>
+/projeto
+  │
+  ├── install_requirements.sh # Script para instalar as dependências do projeto
+  ├── main_parser_curriculum.py # Script principal para processamento de currículos
+  ├── occupation_keyword_search.py # Busca palavras-chave nas ocupações
+  ├── parser_curriculum.py # Parser para currículos em PDF
+  ├── requirements.txt # Arquivo com as dependências necessárias
+  │
+  └── database_encriptado.aes # Banco de dados criptografado com os arquivos essenciais
+      ├── broaderRelationsSkillPillar_pt
+      ├── digCompSkillsCollection_pt
+      ├── digitalSkillsCollection_pt
+      ├── greenSkillsCollection_pt
+      ├── languageSkillsCollection_pt
+      ├── occupations_pt
+      ├── occupationSkillRelations_pt
+      ├── researchOccupationsCollection_pt
+      ├── researchSkillsCollection_pt
+      ├── similar
+      ├── skillGroups_pt
+      ├── skills_pt
+      ├── skillsHierarchy_pt
+      ├── skillSkillRelations_pt
+      └── transversalSkillsCollection_pt
+</pre>
+
+---
+
 <h2>⚙️ Como Executar</h2>
 
 <p>Para rodar o projeto em sua máquina local, siga as etapas abaixo:</p>
@@ -66,28 +96,55 @@
 <pre>
 git clone https://github.com/seuusuario/nome-do-repo.git
 cd nome-do-repo
-pip install -r requirements.txt
-python nome_do_script_principal.py
+bash install_requirements.sh  # Instala as dependências
+python main_parser_curriculum.py  # Executa o parser principal
 </pre>
 
 ---
 
-<h2>📁 Estrutura de Dados</h2>
+<h2>📄 Licença</h2>
+
+<p>
+  Este projeto está licenciado sob a <strong>Licença MIT</strong>.
+</p>
+
+---
+
+<h2>📚 Notas sobre o arquivo <code>database_encriptado.aes</code></h2>
+
+<p>
+  O arquivo <code>database_encriptado.aes</code> contém os dados criptografados necessários para o funcionamento do sistema. Ele inclui as seguintes subpastas com informações relacionadas às profissões, habilidades e relações entre as skills:
+</p>
 
 <ul>
-  <li><strong>occupations_pt.csv</strong> – Base de ocupações principais, com mais de 3.300 profissões catalogadas.</li>
-  <li><strong>occupationSkillRelations_pt.csv</strong> – Mapeamento de ocupações para skills, indicando quais habilidades são essenciais para cada profissão.</li>
-  <li><strong>skills_pt.csv</strong>, <strong>greenSkillsCollection_pt.csv</strong>, etc – Arquivos com skills organizadas por categorias (gerais, transversais, verdes, etc).</li>
-  <li><strong>skillsHierarchy_pt.csv</strong> – Níveis hierárquicos das skills, organizando o grau de expertise requerido.</li>
-  <li><strong>skillSkillRelations_pt.csv</strong> – Relações entre skills, para entender a interconexão entre habilidades diferentes.</li>
+  <li><code>broaderRelationsSkillPillar_pt</code> – Relações mais amplas entre habilidades e pilares.</li>
+  <li><code>digCompSkillsCollection_pt</code> – Competências digitais coletadas.</li>
+  <li><code>digitalSkillsCollection_pt</code> – Habilidades digitais.</li>
+  <li><code>greenSkillsCollection_pt</code> – Competências "verdes" (sustentabilidade, etc).</li>
+  <li><code>languageSkillsCollection_pt</code> – Competências linguísticas.</li>
+  <li><code>occupations_pt</code> – Base de dados com informações sobre ocupações.</li>
+  <li><code>occupationSkillRelations_pt</code> – Relações entre ocupações e habilidades.</li>
+  <li><code>researchOccupationsCollection_pt</code> – Base de dados com ocupações em pesquisa.</li>
+  <li><code>researchSkillsCollection_pt</code> – Base de dados com habilidades em pesquisa.</li>
+  <li><code>similar</code> – Arquivos de dados similares (se aplicável).</li>
+  <li><code>skillGroups_pt</code> – Grupos de habilidades.</li>
+  <li><code>skills_pt</code> – Habilidades principais.</li>
+  <li><code>skillsHierarchy_pt</code> – Hierarquia das habilidades.</li>
+  <li><code>skillSkillRelations_pt</code> – Relações entre diferentes habilidades.</li>
+  <li><code>transversalSkillsCollection_pt</code> – Competências transversais.</li>
 </ul>
+
+<p>
+  Este arquivo está criptografado para garantir a segurança e privacidade dos dados. 
+  Para descriptografá-lo, será necessário utilizar o código de descriptografia adequado que pode ser solicitado ao desenvolvedor.
+</p>
 
 ---
 
 <h2>🤝 Contribuições</h2>
 
 <p>
-  Contribuições são muito bem-vindas! Para contribuir com o projeto, basta abrir uma <a href="https://github.com/seurepo/issues">issue</a> ou enviar um <a href="https://github.com/seurepo/pulls">pull request</a>.
+  Contribuições são muito bem-vindas! Para contribuir com o projeto.
 </p>
 
 ---
