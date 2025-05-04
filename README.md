@@ -103,14 +103,6 @@
 
 ---
 
-<h2>📄 Licença</h2>
-
-<p>
-  Este projeto está licenciado sob a <strong>Licença MIT</strong>.
-</p>
-
----
-
 <h2>📚 Notas sobre o arquivo <code>database_encriptado.aes</code></h2>
 
 <p>
