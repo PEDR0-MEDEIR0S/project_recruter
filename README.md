@@ -64,11 +64,16 @@
 /projeto
   │
   ├── install_requirements.sh # Script para instalar as dependências do projeto
+  │
   ├── main_parser_curriculum.py # Script principal para processamento de currículos
+  │
   ├── occupation_keyword_search.py # Busca palavras-chave nas ocupações
+  │
   ├── parser_curriculum.py # Parser para currículos em PDF
+  │
   ├── requirements.txt # Arquivo com as dependências necessárias
-  ├── /results_printed
+  │
+  ├── /results_printed # Diretorio contendo prints e video de resultado obtidos
   │    ├── result_occupation_keyword_search
   │    ├── result_parser_curriculum
   │    ├── result_main_parser_curriculum
