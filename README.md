@@ -68,6 +68,10 @@
   ├── occupation_keyword_search.py # Busca palavras-chave nas ocupações
   ├── parser_curriculum.py # Parser para currículos em PDF
   ├── requirements.txt # Arquivo com as dependências necessárias
+  ├── /results_printed
+  │    ├── result_occupation_keyword_search
+  │    ├── result_parser_curriculum
+  │    ├── result_main_parser_curriculum
   │
   └── database_encriptado.aes # Banco de dados criptografado com os arquivos essenciais
       ├── broaderRelationsSkillPillar_pt
