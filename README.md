@@ -100,7 +100,7 @@ bash install_requirements.sh  # Instala as dependências
 database_encriptado.aes # Desencriptar os bancos de dados de informações
 python main_parser_curriculum.py  # Executa o parser principal, mas com interações com o usuário.
 occupation_keyword_search.py # Executa a busca de uma string (qualquer texto) nas ocupações.
-parser_curriculum.py # Executa a busca da profissão em todos os arquivos PDF dentro da pasta e classifica a similiridade em 3 metodos diferentes.
+parser_curriculum.py # Executa a busca da profissão em arquivos PDF e classifica a similiridade em 3 metodos diferentes.
 </pre>
 
 ---
