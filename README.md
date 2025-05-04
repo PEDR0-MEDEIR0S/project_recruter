@@ -94,8 +94,6 @@
 <p>Para rodar o projeto em sua máquina local, siga as etapas abaixo:</p>
 
 <pre>
-git clone https://github.com/seuusuario/nome-do-repo.git
-cd nome-do-repo
 bash install_requirements.sh  # Instala as dependências
 database_encriptado.aes # Desencriptar os bancos de dados de informações
 python main_parser_curriculum.py  # Executa o parser principal, mas com interações com o usuário.
