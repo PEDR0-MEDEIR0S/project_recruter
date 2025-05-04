@@ -97,7 +97,10 @@
 git clone https://github.com/seuusuario/nome-do-repo.git
 cd nome-do-repo
 bash install_requirements.sh  # Instala as dependências
-python main_parser_curriculum.py  # Executa o parser principal
+database_encriptado.aes # Desencriptar os bancos de dados de informações
+python main_parser_curriculum.py  # Executa o parser principal, mas com interações com o usuário. Solicita quais as profissões devem ser selecionadas para a aderência profissional.
+occupation_keyword_search.py # Executa a busca de uma string (qualquer texto) nas ocupações.
+parser_curriculum.py # Executa a busca avançada da profissão determinada dentro do script em todos os arquivos PDF dentro da pasta e classifica a similiridade em 3 metodos diferentes.
 </pre>
 
 ---
