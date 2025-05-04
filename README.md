@@ -93,13 +93,13 @@
 
 <p>Para rodar o projeto em sua máquina local, siga as etapas abaixo:</p>
 
-<pre>
-bash install_requirements.sh  # Instala as dependências
-database_encriptado.aes # Desencriptar os bancos de dados de informações
-python main_parser_curriculum.py  # Executa o parser principal, mas com interações com o usuário.
-occupation_keyword_search.py # Executa a busca de uma string (qualquer texto) nas ocupações.
-parser_curriculum.py # Executa a busca da profissão em arquivos PDF e classifica a similiridade em 3 metodos diferentes.
-</pre>
+<ul>
+  <li><code>bash install_requirements.sh</code> – # Instala as dependências.</li>
+  <li><code>database_encriptado.aes</code> – # Desencripta os bancos de dados de informações.</li>
+  <li><code>python main_parser_curriculum.py</code> – # Executa o parser principal, mas com interações com o usuário.</li>
+  <li><code>python occupation_keyword_search.py</code> – # Executa a busca de uma string (qualquer texto) nas ocupações.</li>
+  <li><code>python parser_curriculum.py</code> – # Executa a busca da profissão em arquivos PDF e classifica a similiridade em 3 metodos diferentes.</li>
+</ul>
 
 ---
 
