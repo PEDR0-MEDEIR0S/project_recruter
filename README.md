@@ -74,9 +74,9 @@
   ├── requirements.txt # Arquivo com as dependências necessárias
   │
   ├── /results_printed # Diretorio contendo prints e video de resultado obtidos
-  │    ├── result_occupation_keyword_search
-  │    ├── result_parser_curriculum
-  │    ├── result_main_parser_curriculum
+  │   ├── result_occupation_keyword_search
+  │   ├── result_parser_curriculum
+  │   ├── result_main_parser_curriculum
   │
   └── database_encriptado.aes # Banco de dados criptografado com os arquivos essenciais
       ├── broaderRelationsSkillPillar_pt
