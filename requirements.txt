@@ -1,0 +1,7 @@
+pandas
+nltk
+spacy
+PyPDF2
+unidecode
+scikit-learn
+pdfminer.six
