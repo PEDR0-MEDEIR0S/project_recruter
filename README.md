@@ -143,6 +143,42 @@
 
 ---
 
+<h2>📂 Detalhamento dos Scripts</h2>
+
+<h3>📄 <code>parser_curriculum.py</code></h3>
+<p><strong>Função:</strong> Este é o <strong>núcleo principal</strong> do projeto.</p>
+<ul>
+  <li>Realiza o <strong>processamento inteligente de currículos</strong> em formato PDF.</li>
+  <li>Aplica técnicas de PLN como tokenização, stemming e lematização.</li>
+  <li>Extrai o texto dos PDFs e o transforma em representações linguísticas estruturadas.</li>
+  <li>Inclui também a função de comparação semântica entre currículos e ocupações com base em similaridade de conteúdo.</li>
+</ul>
+<p><strong>Objetivo:</strong> Gerar uma base sólida e estruturada para análise e matching de perfis profissionais.</p>
+
+<hr>
+
+<h3>📌 <code>main_parser_curriculum.py</code></h3>
+<p><strong>Função:</strong> Script auxiliar e ponto de entrada da aplicação com <strong>interação com o usuário</strong>.</p>
+<ul>
+  <li>Importa e utiliza as funções do <code>parser_curriculum.py</code>.</li>
+  <li>Permite ao usuário informar uma ocupação de interesse.</li>
+  <li>Filtra as ocupações relacionadas e realiza a comparação com os currículos processados.</li>
+</ul>
+<p><strong>Objetivo:</strong> Tornar o processo acessível e interativo, guiando o usuário na análise e comparação com profissões específicas.</p>
+
+<hr>
+
+<h3>🔍 <code>occupation_keyword_search.py</code></h3>
+<p><strong>Função:</strong> Realiza a <strong>busca e análise detalhada de ocupações</strong> a partir de palavras-chave fornecidas.</p>
+<ul>
+  <li>Normaliza os termos e realiza buscas nas descrições e rótulos das ocupações.</li>
+  <li>Retorna todas as skills vinculadas, organizadas com grupo, pilar, descrição e hierarquia.</li>
+  <li>Permite estudo aprofundado das competências exigidas para cada ocupação.</li>
+</ul>
+<p><strong>Utilidade:</strong> Oferece ao usuário um recurso analítico para entender os requisitos profissionais de forma granular.</p>
+
+---
+
 <h2>🤝 Contribuições</h2>
 
 <p>
