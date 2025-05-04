@@ -1,0 +1,79 @@
+PS > python parser_curriculum.py
+[nltk_data] Downloading package stopwords to
+[nltk_data]     C:\Users\pedro\AppData\Roaming\nltk_data...
+[nltk_data]   Package stopwords is already up-to-date!
+[nltk_data] Downloading package punkt to
+[nltk_data]     C:\Users\pedro\AppData\Roaming\nltk_data\tokenizers...
+[nltk_data]   Package punkt is already up-to-date!
+
+ Processando: Curriculo-Pedro-Medeiros.pdf
+
+=== TOKENIZAÇÃO ===
+['PEDRO', 'MEDEIROS', 'anos', 'Lagoa', 'Nova', 'Natal', 'RN', 'Disponibilidade', 'mudança', 'Objetivo']
+
+=== STEMMING ===
+['pedr', 'med', 'ano', 'lago', 'nov', 'natal', 'rn', 'disponibil', 'mudanç', 'obje']
+
+=== LEMATIZAÇÃO ===
+['PEDRO', 'MEDEIROS', 'ano', 'Lagoa', 'Nova', 'Natal', 'RN', 'Disponibilidade', 'mudança', 'objetivo']
+
+ Processando: curriculo.pdf
+
+=== TOKENIZAÇÃO ===
+['PEDRO', 'MEDEIROS', 'anos', 'Lagoa', 'Nova', 'Natal', 'RN', 'Disponibilidade', 'mudança', 'Objetivo']
+
+=== STEMMING ===
+['pedr', 'med', 'ano', 'lago', 'nov', 'natal', 'rn', 'disponibil', 'mudanç', 'obje']
+
+=== LEMATIZAÇÃO ===
+['PEDRO', 'MEDEIROS', 'ano', 'Lagoa', 'Nova', 'Natal', 'RN', 'Disponibilidade', 'mudança', 'objetivo']
+
+ Ocupações encontradas:
+ - Cientista de dados
+ - Operador de registo de dados/Operadora de registo de dados
+ - Especialista em qualidade de dados
+ - Analista de dados
+
+=== TOKENIZAÇÃO ===
+['analistas', 'dados', 'executam', 'funções', 'importação', 'inspeção', 'depuração', 'transformação', 'validação', 'modelação']
+
+=== STEMMING ===
+['anal', 'dad', 'execut', 'funç', 'import', 'inspeç', 'depur', 'transform', 'valid', 'model']
+
+=== LEMATIZAÇÃO ===
+['analista', 'dar', 'executar', 'função', 'importação', 'inspeção', 'depuração', 'transformação', 'validação', 'modelação']
+
+ Comparando currículo: Curriculo-Pedro-Medeiros.pdf
+
+ TOKENIZAÇÃO
+ Cobertura: 8.49%
+ Similaridade: 0.2698
+ Interseção de palavras (101): ['ferramentas', 'aumentar', 'oportunidades', 'liderança', 'fluxos', 'análise', 'atual', 'acesso', 'integridade', 'necessidades']
+
+ STEMMING
+ Cobertura: 17.56%
+ Similaridade: 0.3430
+ Interseção de palavras (134): ['operac', 'model', 'anális', 'oper', 'previs', 'revis', 'efici', 'empr', 'disponibil', 'atual']
+
+ LEMATIZAÇÃO
+ Cobertura: 11.51%
+ Similaridade: 0.2517
+ Interseção de palavras (118): ['ferramenta', 'resultado', 'aumentar', 'liderança', 'requisito', 'análise', 'atual', 'acesso', 'processo', 'integridade']
+
+ Comparando currículo: curriculo.pdf
+
+ TOKENIZAÇÃO
+ Cobertura: 8.49%
+ Similaridade: 0.3254
+ Interseção de palavras (101): ['ferramentas', 'aumentar', 'oportunidades', 'análise', 'fluxos', 'atual', 'acesso', 'integridade', 'necessidades', 'programa']
+
+ STEMMING
+ Cobertura: 17.96%
+ Similaridade: 0.3977
+ Interseção de palavras (137): ['operac', 'model', 'anális', 'oper', 'previs', 'revis', 'relac', 'efici', 'empr', 'transform']
+
+ LEMATIZAÇÃO
+ Cobertura: 11.61%
+ Similaridade: 0.2926
+ Interseção de palavras (119): ['ferramenta', 'aumentar', 'liderança', 'requisito', 'análise', 'atual', 'acesso', 'processo', 'integridade', 'programa']
+PS >

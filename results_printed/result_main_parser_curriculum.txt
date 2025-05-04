@@ -1,0 +1,772 @@
+PS > python main_parser_curriculum.py
+[nltk_data] Downloading package stopwords to
+[nltk_data]     C:\Users\pedro\AppData\Roaming\nltk_data...
+[nltk_data]   Package stopwords is already up-to-date!
+[nltk_data] Downloading package punkt to
+[nltk_data]     C:\Users\pedro\AppData\Roaming\nltk_data\tokenizers...
+[nltk_data]   Package punkt is already up-to-date!
+Informe a ocupação que deseja consultar: analista de dados
+
+Você informou que quer consultar a ocupação "analista de dados".
+
+ Ocupações encontradas:
+ - Cientista de dados
+ - Operador de registo de dados/Operadora de registo de dados
+ - Especialista em qualidade de dados
+ - Analista de dados
+
+Para esta profissão, foram encontradas as seguintes ocupações similares:
+ 1. Cientista de dados
+ 2. Operador de registo de dados/Operadora de registo de dados
+ 3. Especialista em qualidade de dados
+ 4. Analista de dados
+
+Digite os números das profissões que se aplicam (ex: 1, 3)
+ou digite 'd' para detalhar as ocupações antes de decidir.
+Sua escolha: d
+
+--- Detalhes da ocupação: Cientista de dados ---
+description: Os analistas de dados executam funções de importação, inspeção, depuração, transformação, validação, modelação ou interpretação de conjuntos de dados relativos aos objetivos empresariais da empresa. Asseguram que as fontes e os repositórios de dados fornecem dados consistentes e fiáveis. Os analistas de dados utilizam diferentes algoritmos e ferramentas de TI, conforme exigido pela situação e pelos dados do momento. Podem elaborar relatórios sob a forma de visualizações como gráficos, mapas e quadros.
+Skill: tratamento de dados digitais
+Descrição da skill: Identificar, localizar, recuperar, armazenar, organizar e analisar informações digitais, avaliar a sua pertinência e finalidade.
+Skill: estrutura da informação
+Descrição da skill: O tipo de infraestrutura que define o formato dos dados: semiestruturada, desestruturada e estruturada.
+Skill: inteligência empresarial
+Descrição da skill: As ferramentas utilizadas para transformar grandes quantidades de dados em bruto em informações comerciais pertinentes e úteis.
+Skill: análise de dados
+Descrição da skill: Os métodos de inteligência artificial, aprendizagem automática, estatísticas e bases de dados utilizados para extrair conteúdos de um conjunto de dados.
+Skill: tipos de documentação
+Descrição da skill: As características dos tipos de documentação interna e externa alinhadas com o ciclo de vida dos produtos informáticos e os respetivos tipos de conteúdo específicos.
+Skill: técnicas de apresentação visual
+Descrição da skill: As técnicas de representação e interação visual, como histogramas, gráficos de dispersão, gráficos tridimensionais, esquemas no formato treemap e diagramas de coordenadas paralelas, que podem ser usadas para apresentar dados numéricos e não numéricos abstratos, a fim de reforçar a compreensão humana da informação.
+Skill: engenharia de dados
+Descrição da skill: Processo de desenvolvimento e construção de sistemas de recolha e análise de dados em grande escala.
+
+Skill: <I>software</i> de visualização de dados
+Descrição da skill: Ferramenta ou aplicação informática que cria uma representação gráfica e visual de dados, permitindo uma melhor compreensão e interpretação de dados complexos através de elementos visuais como mapas, diagramas, infografias ou gráficos.
+
+Skill: extração de informação
+Descrição da skill: As técnicas e os métodos utilizados para a obtenção e extração de informações provenientes de documentos e fontes digitais não estruturados ou semiestruturados.
+Skill: estatística
+Descrição da skill: Estudo da teoria estatística, métodos e práticas como a recolha, a organização, a análise, a interpretação e a apresentação de dados. Trata de todos os aspetos dos dados, incluindo o planeamento da recolha de dados em termos de conceção de inquéritos e experiências, a fim de prever e planear atividades relacionadas com o trabalho.
+Skill: categorização de informação
+Descrição da skill: O processo de classificação das informações em categorias e de mostrar relações entre os dados para alguns fins claramente definidos.
+Skill: analítica organizacional
+Descrição da skill: As disciplinas e tecnologias destinadas a resolver os problemas das empresas através de métodos quantitativos, tais como a análise de dados e modelos estatísticos.
+
+Skill: linguagem RDF
+Descrição da skill: As línguas de pesquisa, como a SPARQL, que são utilizadas para extrair e manipular dados armazenados em formato Resource Description Framework (RDF).
+Relacionada: linguagens de pesquisa
+Skill: linguagens de pesquisa
+Descrição da skill: O domínio das línguas informáticas normalizadas para consulta de informações a partir de uma base de dados e de documentos que contenham as informações necessárias.
+Skill: confidencialidade da informação
+Descrição da skill: Os mecanismos e regulamentos que permitem o controlo seletivo do acesso e garantem que apenas as partes autorizadas (pessoas, processos, sistemas e dispositivos) têm acesso aos dados, as formas de respeitar as informações confidenciais e os riscos de incumprimento.
+Skill: dados não estruturados
+Descrição da skill: As informações que não estão dispostas de forma predefinida ou que não têm um modelo de dados predefinido, sendo difícil compreender e encontrar padrões nas mesmas sem utilizar técnicas como a análise de dados.
+Skill: avaliação da qualidade dos dados
+Descrição da skill: O processo de revelação de problemas relativos a dados utilizando indicadores, medidas e métricas de qualidade, a fim de planear a depuração dos dados e estratégias de enriquecimento dos dados, de acordo com os critérios de qualidade dos dados.
+Skill: ética dos dados
+Descrição da skill: Subdomínio da ética que avalia se as práticas em matéria de dados são sólidas do ponto de vista ético. Avalia processos como a recolha, a análise e a divulgação de dados estruturados e não estruturados que possam ter um impacto negativo na sociedade.
+
+Skill: ciência dos dados
+Descrição da skill: Domínio de estudo que trata de uma grande quantidade de dados utilizando técnicas de IA, como algoritmos de aprendizagem automática, para prever padrões e obter informações úteis para a tomada de decisões empresariais.
+
+Skill: modelos de dados
+Descrição da skill: As técnicas e os sistemas existentes utilizados para estruturar elementos de dados e mostrar relações entre eles, bem como métodos de interpretação das estruturas e relações de dados.
+Skill: normalizar dados
+Descrição da skill: Reduzir os dados à sua forma de base precisa (formas normais), a fim de alcançar resultados tais como minimização da dependência, eliminação de redundância e aumento da consistência.
+Relacionada: dados não estruturados
+Skill: utilizar técnicas de processamento de dados
+Descrição da skill: Recolher, tratar e analisar dados e informações pertinentes, armazenar e atualizar adequadamente os dados e representar os valores e dados através de gráficos e diagramas estatísticos.
+Skill: interpretar dados atuais
+Descrição da skill: Analisar os dados recolhidos a partir de fontes como os dados de mercado, artigos científicos, os requisitos dos clientes e os questionários, cujas informações são atuais e atualizadas, a fim de avaliar o desenvolvimento e a inovação em áreas de especialização.
+Relacionada: modelos de dados
+Skill: desenvolver processos de tratamento de dados
+Descrição da skill: Utilizar ferramentas TIC para aplicar processos matemáticos, algorítmicos ou outros processos de manipulação de dados, a fim de criar informação.
+Skill: executar cálculos para análise matemática
+Descrição da skill: Aplicar métodos matemáticos e utilizar tecnologias de cálculo para efetuar análises e encontrar soluções para problemas específicos.
+Relacionada: matemática
+Skill: aplicar técnicas de análise estatística
+Descrição da skill: Utilizar modelos (estatísticas descritivas ou inferenciais) e técnicas (prospeção de dados ou aprendizagem automática) para análises estatísticas, bem como ferramentas informáticas para análise de dados, deteção de correlações e previsão de tendências.
+Relacionada: algoritmização de tarefas
+Relacionada: estatística
+Relacionada: software de análise estatística
+Relacionada: métodos de análise do desempenho das TIC
+Skill: efetuar prospeção de dados
+Descrição da skill: Explorar grandes conjuntos de dados para revelar padrões através do uso de estatísticas, sistemas de bases de dados ou inteligência artificial e apresentar as informações de forma compreensível.
+Relacionada: análise de dados
+Relacionada: métodos de prospeção de dados
+Relacionada: dados não estruturados
+Skill: utilizar bases de dados
+Descrição da skill: Utilizar ferramentas de «software» para gerir e organizar dados num ambiente estruturado que consista em atributos, tabelas e relações, a fim de consultar e alterar os dados armazenados.
+Relacionada: base de dados
+Relacionada: sistemas de gestão de bases de dados
+Skill: integrar dados de TIC
+Descrição da skill: Combinar dados de fontes para proporcionar uma visão unificada do conjunto desses dados.
+Skill: analisar grandes volumes de dados
+Descrição da skill: Recolher e avaliar grandes volumes de dados numéricos, especialmente para identificar padrões entre os dados.
+Skill: manusear amostras de dados
+Descrição da skill: Recolher e selecionar um conjunto de dados de uma população através de um procedimento estatístico ou outro procedimento definido.
+Skill: limpar dados
+Descrição da skill: Detetar e corrigir registos corrompidos a partir de conjuntos de dados, assegurar que os dados ficam e se mantêm estruturados de acordo com orientações estabelecidas.
+Relacionada: dados não estruturados
+Skill: definir critérios de qualidade dos dados
+Descrição da skill: Especificar os critérios utilizados na avaliação da qualidade dos dados para fins profissionais, como as incoerências, a existência de lacunas, a facilidade de utilização e a exatidão.
+Skill: executar processos de garantia da qualidade dos dados
+Descrição da skill: Aplicar técnicas de análise, validação e verificação da qualidade em dados, a fim de verificar a integridade da qualidade dos dados.
+Relacionada: dados não estruturados
+Skill: recolher dados informáticos
+Descrição da skill: Recolher dados através da conceção e da aplicação de métodos de pesquisa e de amostragem.
+Skill: gerir dados
+Descrição da skill: Administrar todos os tipos de recursos de dados ao longo do seu ciclo de vida através da definição de perfis de dados, de análises e da normalização, bem como da resolução, limpeza, reforço e auditoria de identidades. Assegurar que os dados são adequados ao fim a que se destinam, utilizando ferramentas informáticas especializadas para o cumprimento dos critérios de qualidade dos dados.
+Relacionada: técnicas de auditoria
+Relacionada: gestão de dados sobre os produtos
+Skill: análise de marketing
+Descrição da skill: Conjunto de processos de utilização de dados para melhorar a eficácia das atividades de marketing. Implica a análise de parâmetros, como a rentabilidade do investimento, para identificar oportunidades de melhoria.
+
+Skill: análise Web
+Descrição da skill: As características, as ferramentas e as técnicas de medição, recolha, análise e comunicação de dados Web para obter informações sobre o comportamento dos utilizadores e melhorar o desempenho de um sítio Web.
+Skill: MDX
+Descrição da skill: A linguagem informática MDX é uma linguagem de interrogação para consulta de informações a partir de uma base de dados e de documentos que contêm as informações necessárias. É desenvolvida pela empresa de software Microsoft.
+Skill: arquitetura da informação
+Descrição da skill: Os métodos através dos quais as informações são geradas, estruturadas, armazenadas, mantidas, ligadas, trocadas e utilizadas.
+Skill: análise das redes sociais
+Descrição da skill: Método de investigação que é explorado principalmente na sociologia e nas ciências da comunicação e que se centra na análise das relações entre indivíduos e entre organizações e Estados.
+
+Skill: XQuery
+Descrição da skill: A linguagem informática XQuery é uma linguagem de pesquisa para obter informações de uma base de dados e de documentos que contêm as informações necessárias. É desenvolvida pela organização internacional de normas Consórcio World Wide Web.
+Skill: base de dados
+Descrição da skill: A classificação de bases de dados, que inclui a sua finalidade, características, terminologia, modelos e utilização tais como bases de dados XML, bases de dados orientadas por documentos e bases de dados de texto integral.
+Skill: reconhecimento de imagens
+Descrição da skill: Processo concebido para detetar e identificar uma característica ou objeto numa imagem ou num vídeo. Este processo é utilizado em imagiologia médica, vigilância para fins de segurança ou deteção de defeitos, entre outros domínios. É uma técnica fundamental para uma vasta gama de aplicações, como a condução automatizada, a classificação de imagens ou a inspeção visual.
+
+Skill: SPARQL
+Descrição da skill: A linguagem informática SPARQL é uma linguagem de pesquisa para obter informações de uma base de dados e de documentos que contêm as informações necessárias. É desenvolvida pelo consórcio internacional de normalização World Wide Web.
+Skill: técnicas de modelação estatística
+Descrição da skill: Abordagens que aplicam análise estatística a conjuntos de dados no domínio da ciência dos dados. Procuram elaborar previsões da realidade através de modelos estatísticos e pressupostos explícitos.
+
+Skill: conceção de pesquisas
+Descrição da skill: Conjunto de métodos e técnicas de investigação utilizados para a realização de um estudo. Inclui etapas práticas da investigação, tais como a declaração de finalidade, a recolha de dados, a metodologia e a análise de dados.
+
+Skill: teoria dos jogos
+Descrição da skill: Estudo de modelos matemáticos de decisões estratégicas entre as partes interessadas. Tem aplicações em todos os domínios das ciências sociais, bem como na ciência dos sistemas, na informática e na lógica.  O equilíbrio de Nash e o dilema do prisioneiro são conceitos essenciais da teoria dos jogos.
+
+Skill: investigação multidisciplinar
+Descrição da skill: Técnica de investigação em que uma questão comum é investigada utilizando abordagens de diferentes disciplinas, com o objetivo de encontrar uma solução global para a mesma.
+
+Skill: análise dos cuidados de saúde
+Descrição da skill: Utilização de métodos qualitativos e quantitativos para analisar padrões nos dados dos cuidados de saúde, com o objetivo de melhorar a administração e a qualidade dos cuidados de saúde e o diagnóstico de doenças.
+
+Skill: LDAP
+Descrição da skill: A linguagem informática LDAP é uma linguagem de pesquisa e extração de informações a partir de uma base de dados e de documentos que contêm as informações necessárias.
+Skill: armazenamento de dados
+Descrição da skill: Os conceitos físicos e técnicos da forma como o armazenamento de dados digitais está organizado em regimes específicos, tanto a nível local, como discos rígidos ou memórias de acesso aleatório (RAM), como à distância, através de redes, da Internet ou da nuvem.
+Skill: processamento analítico em linha
+Descrição da skill: Ferramentas em linha que analisam, agregam e apresentam dados multidimensionais que permitem aos utilizadores extrair e visualizar, de forma interativa e seletiva, dados de pontos de vista específicos.
+Skill: tecnologias em nuvem
+Descrição da skill: As tecnologias que permitem o acesso a hardware, software, dados e serviços através de servidores e redes de software remotos, independentemente da sua localização e arquitetura.
+Skill: LINQ
+Descrição da skill: A linguagem informática LINQ é uma linguagem de consulta para recolha de informações a partir de uma base de dados e de documentos que contêm as informações necessárias. É desenvolvida pela empresa de software Microsoft.
+Skill: Hadoop
+Descrição da skill: O sistema de armazenamento, análise e processamento de dados de código-fonte aberta, que consiste principalmente nos componentes MapReduce e Hadoop de sistemas de ficheiros distribuídos (HDFS) e é utilizado para apoiar a gestão e a análise de grandes conjuntos de dados.
+Skill: N1QL
+Descrição da skill: A linguagem informática N1QL é uma linguagem de consulta para recolha de informações a partir de uma base de dados e de documentos que contêm as informações necessárias. É desenvolvida pela empresa de software Couchbase.
+Skill: recolher dados para investigação forense
+Descrição da skill: Recolher dados protegidos, fragmentados ou corrompidos e outras comunicações online. Documentar e apresentar as conclusões deste processo.
+Relacionada: informações forenses
+Skill: utilizar software de folha de cálculo
+Descrição da skill: Utilizar ferramentas de software para criar e editar dados tabulares para efetuar cálculos matemáticos, organizar dados e informações, criar diagramas baseados em dados e obter esses mesmos dados.
+Skill: gerir dados quantitativos
+Descrição da skill: Recolher, processar e apresentar dados quantitativos. Usar os programas e métodos adequados para validar, organizar e interpretar dados.
+
+Relacionada: reunir dados
+Relacionada: utilizar técnicas de processamento de dados
+Relacionada: efetuar análise de dados
+Relacionada: analisar grandes volumes de dados
+Relacionada: manusear amostras de dados
+Relacionada: realizar investigação quantitativa
+Relacionada: analisar dados
+Relacionada: analisar processos de informação
+Skill: armazenar dados e sistemas digitais
+Descrição da skill: Utilizar ferramentas de software para arquivo de dados, efetuando a sua cópia e salvaguarda, a fim de garantir a sua integridade e evitar a perda de dados.
+Skill: gerir sistemas de recolha de dados
+Descrição da skill: Desenvolver e gerir métodos e estratégias destinados a maximizar a qualidade dos dados e a eficiência estatística na recolha de dados, a fim de garantir o melhor tratamento posterior dos dados recolhidos.
+Relacionada: gestão de coleções
+Skill: tomar decisões baseadas em dados
+Descrição da skill: Recolher dados, tais como indicadores-chave de desempenho (ICD), para uma empresa e utilizar as informações para formular ações e estratégias.
+
+Skill: realizar apresentação visual de dados
+Descrição da skill: Criar representações visuais de dados, tais como gráficos ou diagramas, para facilitar a compreensão.
+Relacionada: técnicas de apresentação visual
+Skill: relatar os resultados de análises
+Descrição da skill: Apresentar documentos de investigação ou fazer apresentações para comunicar os resultados de um projeto de investigação e análise realizado, indicando os procedimentos e métodos de análise que conduziram aos resultados, bem como potenciais interpretações dos resultados.
+Relacionada: análise financeira
+Relacionada: metodologia da investigação científica
+Skill: gerir os dados em nuvem e o seu armazenamento
+Descrição da skill: Criar e gerir sistemas de conservação de dados em nuvem. Identificar e implementar as necessidades em matéria de proteção de dados, cifragem e planeamento de capacidades.
+
+Skill: criar modelos de dados
+Descrição da skill: Utilizar técnicas e metodologias específicas para analisar os requisitos em matéria de dados dos processos empresariais de uma organização, a fim de criar modelos para estes dados, como sejam modelos conceptuais, lógicos e físicos. Estes modelos têm uma estrutura e um formato específicos.
+Relacionada: modelos de dados
+
+Pressione Enter para continuar para a próxima ocupação...
+
+--- Detalhes da ocupação: Operador de registo de dados/Operadora de registo de dados ---
+description: Os especialistas em qualidade de dados analisam os dados de uma organização a fim de aferir a sua exatidão, recomendam a implementação de melhorias aos sistemas de registo e aos processos de aquisição de dados e avaliam a integridade dos dados de referência e históricos. Além disso, elaboram documentos e mantêm objetivos e normas de qualidade dos dados, supervisionam a política de privacidade dos dados de uma organização e controlam a conformidade dos fluxos de dados com as normas de qualidade dos dados.
+Skill: estrutura da informação
+Descrição da skill: O tipo de infraestrutura que define o formato dos dados: semiestruturada, desestruturada e estruturada.
+Skill: base de dados
+Descrição da skill: A classificação de bases de dados, que inclui a sua finalidade, características, terminologia, modelos e utilização tais como bases de dados XML, bases de dados orientadas por documentos e bases de dados de texto integral.
+Skill: linguagem RDF
+Descrição da skill: As línguas de pesquisa, como a SPARQL, que são utilizadas para extrair e manipular dados armazenados em formato Resource Description Framework (RDF).
+Relacionada: linguagens de pesquisa
+Skill: linguagens de pesquisa
+Descrição da skill: O domínio das línguas informáticas normalizadas para consulta de informações a partir de uma base de dados e de documentos que contenham as informações necessárias.
+Skill: ética dos dados
+Descrição da skill: Subdomínio da ética que avalia se as práticas em matéria de dados são sólidas do ponto de vista ético. Avalia processos como a recolha, a análise e a divulgação de dados estruturados e não estruturados que possam ter um impacto negativo na sociedade.
+
+Skill: normalizar dados
+Descrição da skill: Reduzir os dados à sua forma de base precisa (formas normais), a fim de alcançar resultados tais como minimização da dependência, eliminação de redundância e aumento da consistência.
+Relacionada: dados não estruturados
+Skill: utilizar técnicas de processamento de dados
+Descrição da skill: Recolher, tratar e analisar dados e informações pertinentes, armazenar e atualizar adequadamente os dados e representar os valores e dados através de gráficos e diagramas estatísticos.
+Skill: gerir bases de dados
+Descrição da skill: Aplicar sistemas e modelos de conceção de bases de dados, definir dependências de dados, utilizar linguagens de pesquisa e sistemas de gestão de bases de dados para desenvolver e gerir bases de dados.
+Relacionada: base de dados
+Relacionada: sistemas de gestão de bases de dados
+Relacionada: bases de dados museológicas
+Skill: desenvolver processos de tratamento de dados
+Descrição da skill: Utilizar ferramentas TIC para aplicar processos matemáticos, algorítmicos ou outros processos de manipulação de dados, a fim de criar informação.
+Skill: manusear amostras de dados
+Descrição da skill: Recolher e selecionar um conjunto de dados de uma população através de um procedimento estatístico ou outro procedimento definido.
+Skill: limpar dados
+Descrição da skill: Detetar e corrigir registos corrompidos a partir de conjuntos de dados, assegurar que os dados ficam e se mantêm estruturados de acordo com orientações estabelecidas.
+Relacionada: dados não estruturados
+Skill: definir critérios de qualidade dos dados
+Descrição da skill: Especificar os critérios utilizados na avaliação da qualidade dos dados para fins profissionais, como as incoerências, a existência de lacunas, a facilidade de utilização e a exatidão.
+Skill: utilizar expressões regulares
+Descrição da skill: Combinar caracteres de um alfabeto específico utilizando regras bem definidas para gerar cadeias de caracteres que possam ser utilizadas para descrever uma língua ou um padrão.
+Skill: conceber esquemas de bases de dados
+Descrição da skill: Elaborar um esquema de bases de dados com base nas regras do Sistema de Gestão de Bases de Dados Relacionais (RDBMS), a fim de criar um grupo de objetos logicamente organizado, tais como tabelas, colunas e processos.
+Relacionada: ferramentas de criação de bases de dados
+Skill: executar processos de garantia da qualidade dos dados
+Descrição da skill: Aplicar técnicas de análise, validação e verificação da qualidade em dados, a fim de verificar a integridade da qualidade dos dados.
+Relacionada: dados não estruturados
+Skill: gerir dados
+Descrição da skill: Administrar todos os tipos de recursos de dados ao longo do seu ciclo de vida através da definição de perfis de dados, de análises e da normalização, bem como da resolução, limpeza, reforço e auditoria de identidades. Assegurar que os dados são adequados ao fim a que se destinam, utilizando ferramentas informáticas especializadas para o cumprimento dos critérios de qualidade dos dados.
+Relacionada: técnicas de auditoria
+Relacionada: gestão de dados sobre os produtos
+Skill: resolver problemas de forma crítica
+Descrição da skill: Identificar os pontos fortes e os pontos fracos de vários conceitos abstratos e racionais, tais como questões, opiniões e abordagens relacionadas com uma situação problemática específica, a fim de formular soluções e métodos alternativos para resolver a situação.
+Skill: relatar os resultados de análises
+Descrição da skill: Apresentar documentos de investigação ou fazer apresentações para comunicar os resultados de um projeto de investigação e análise realizado, indicando os procedimentos e métodos de análise que conduziram aos resultados, bem como potenciais interpretações dos resultados.
+Relacionada: análise financeira
+Relacionada: metodologia da investigação científica
+Skill: gerir normas de intercâmbio de dados
+Descrição da skill: Proceder à definição e manutenção de normas para a transformação de dados provenientes de esquemas de fontes na estrutura de dados necessária de um esquema de resultados.
+Skill: processar dados
+Descrição da skill: Introduzir informações num sistema de armazenamento e recolha de dados através de processos como a digitalização, a introdução manual de dados ou a transferência eletrónica de dados, a fim de tratar grandes quantidades de dados.
+Skill: MDX
+Descrição da skill: A linguagem informática MDX é uma linguagem de interrogação para consulta de informações a partir de uma base de dados e de documentos que contêm as informações necessárias. É desenvolvida pela empresa de software Microsoft.
+Skill: técnicas de apresentação visual
+Descrição da skill: As técnicas de representação e interação visual, como histogramas, gráficos de dispersão, gráficos tridimensionais, esquemas no formato treemap e diagramas de coordenadas paralelas, que podem ser usadas para apresentar dados numéricos e não numéricos abstratos, a fim de reforçar a compreensão humana da informação.
+Skill: XQuery
+Descrição da skill: A linguagem informática XQuery é uma linguagem de pesquisa para obter informações de uma base de dados e de documentos que contêm as informações necessárias. É desenvolvida pela organização internacional de normas Consórcio World Wide Web.
+Skill: engenharia de dados
+Descrição da skill: Processo de desenvolvimento e construção de sistemas de recolha e análise de dados em grande escala.
+
+Skill: SPARQL
+Descrição da skill: A linguagem informática SPARQL é uma linguagem de pesquisa para obter informações de uma base de dados e de documentos que contêm as informações necessárias. É desenvolvida pelo consórcio internacional de normalização World Wide Web.
+Skill: estatística
+Descrição da skill: Estudo da teoria estatística, métodos e práticas como a recolha, a organização, a análise, a interpretação e a apresentação de dados. Trata de todos os aspetos dos dados, incluindo o planeamento da recolha de dados em termos de conceção de inquéritos e experiências, a fim de prever e planear atividades relacionadas com o trabalho.
+Skill: processos empresariais
+Descrição da skill: Processos que uma organização aplica para melhorar a eficiência, definir novos objetivos e alcançar metas de forma rentável e atempada.
+Skill: análise dos cuidados de saúde
+Descrição da skill: Utilização de métodos qualitativos e quantitativos para analisar padrões nos dados dos cuidados de saúde, com o objetivo de melhorar a administração e a qualidade dos cuidados de saúde e o diagnóstico de doenças.
+
+Skill: LDAP
+Descrição da skill: A linguagem informática LDAP é uma linguagem de pesquisa e extração de informações a partir de uma base de dados e de documentos que contêm as informações necessárias.
+Skill: LINQ
+Descrição da skill: A linguagem informática LINQ é uma linguagem de consulta para recolha de informações a partir de uma base de dados e de documentos que contêm as informações necessárias. É desenvolvida pela empresa de software Microsoft.
+Skill: avaliação da qualidade dos dados
+Descrição da skill: O processo de revelação de problemas relativos a dados utilizando indicadores, medidas e métricas de qualidade, a fim de planear a depuração dos dados e estratégias de enriquecimento dos dados, de acordo com os critérios de qualidade dos dados.
+Skill: N1QL
+Descrição da skill: A linguagem informática N1QL é uma linguagem de consulta para recolha de informações a partir de uma base de dados e de documentos que contêm as informações necessárias. É desenvolvida pela empresa de software Couchbase.
+Skill: gerir o plano de tarefas
+Descrição da skill: Manter uma visão geral de todas as tarefas recebidas, a fim de atribuir prioridade às tarefas, planear a sua execução e integrar novas tarefas à medida que se apresentam.
+Skill: efetuar análise de dados
+Descrição da skill: Recolher dados e estatísticas para testar e avaliar, a fim de gerar afirmações e previsões de padrões, com o objetivo de descobrir informações úteis num processo de tomada de decisão.
+Relacionada: software de análise estatística
+Relacionada: métodos de análise do desempenho das TIC
+Skill: executar cálculos para análise matemática
+Descrição da skill: Aplicar métodos matemáticos e utilizar tecnologias de cálculo para efetuar análises e encontrar soluções para problemas específicos.
+Relacionada: matemática
+Skill: executar auditorias informáticas
+Descrição da skill: Organizar e executar auditorias a fim de avaliar sistemas TIC, bem como a conformidade dos componentes dos sistemas, os sistemas de tratamento da informação e a segurança da informação. Identificar e reunir potenciais questões críticas e recomendar soluções com base nas normas e soluções exigidas.
+Relacionada: técnicas de auditoria
+Skill: projetar bases de dados em nuvem
+Descrição da skill: Aplicar princípios de design com vista à criação de bases de dados adaptáveis, elásticas, automatizadas e fracamente acopladas que utilizem infraestruturas de computação em nuvem. Procurar eliminar eventuais pontos únicos de falha através da conceção de base de dados distribuídas.
+
+Relacionada: base de dados
+Relacionada: computação distribuída
+Relacionada: desenhar a arquitetura de computação em nuvem
+Relacionada: conceber esquemas de bases de dados
+Relacionada: conceber especificações de cópia de segurança de bases de dados
+Skill: gerir projetos
+Descrição da skill: Gerir e planear vários recursos, tais como recursos humanos, orçamento, prazo, resultados e qualidade, necessários para um projeto específico e acompanhar o avanço do projeto a fim de alcançar um objetivo específico num prazo e orçamento definidos.
+Relacionada: princípios de gestão de projetos
+Relacionada: gestão de projetos
+Skill: construir relações comerciais
+Descrição da skill: Estabelecer uma relação positiva e de longo prazo entre organizações e terceiros interessados, tais como fornecedores, distribuidores, acionistas e outras partes interessadas, com vista a informá-los sobre a organização e os seus objetivos.
+Skill: dar formação aos trabalhadores
+Descrição da skill: Dirigir e orientar os trabalhadores através de um processo de aquisição das competências necessárias ao desempenho das tarefas profissionais de um emprego. Organizar atividades destinadas a apresentar o trabalho e os sistemas ou a melhorar o desempenho de indivíduos e grupos em contextos organizacionais.
+
+Pressione Enter para continuar para a próxima ocupação...
+
+--- Detalhes da ocupação: Especialista em qualidade de dados ---
+description: Os cientistas de dados pesquisam e interpretam fontes de dados enriquecidos, gerem grandes quantidades de dados, procedem à fusão de fontes de dados, asseguram a consistência dos conjuntos de dados e criam visualizações para ajudar na compreensão dos dados. Constroem modelos matemáticos utilizando os dados, apresentam e comunicam informações e conclusões relativas aos dados aos especialistas e cientistas da sua equipa e, se necessário, a um público não especializado, e recomendam formas de aplicar os dados.
+Skill: modelação matemática
+Descrição da skill: Processo de estabelecer a representação matemática, como uma equação, de um problema do mundo real para obter informações, encontrar novas características sobre o cenário problemático, compreender melhor o problema original ou fazer previsões sobre o mesmo.
+
+Skill: análise de dados
+Descrição da skill: Os métodos de inteligência artificial, aprendizagem automática, estatísticas e bases de dados utilizados para extrair conteúdos de um conjunto de dados.
+Skill: técnicas de apresentação visual
+Descrição da skill: As técnicas de representação e interação visual, como histogramas, gráficos de dispersão, gráficos tridimensionais, esquemas no formato treemap e diagramas de coordenadas paralelas, que podem ser usadas para apresentar dados numéricos e não numéricos abstratos, a fim de reforçar a compreensão humana da informação.
+Skill: engenharia de dados
+Descrição da skill: Processo de desenvolvimento e construção de sistemas de recolha e análise de dados em grande escala.
+
+Skill: análise quantitativa
+Descrição da skill: Técnica de utilização de modelação e medição estatística e matemática para representar uma realidade específica através de números.
+
+Skill: <I>software</i> de visualização de dados
+Descrição da skill: Ferramenta ou aplicação informática que cria uma representação gráfica e visual de dados, permitindo uma melhor compreensão e interpretação de dados complexos através de elementos visuais como mapas, diagramas, infografias ou gráficos.
+
+Skill: técnicas de modelação estatística
+Descrição da skill: Abordagens que aplicam análise estatística a conjuntos de dados no domínio da ciência dos dados. Procuram elaborar previsões da realidade através de modelos estatísticos e pressupostos explícitos.
+
+Skill: extração de informação
+Descrição da skill: As técnicas e os métodos utilizados para a obtenção e extração de informações provenientes de documentos e fontes digitais não estruturados ou semiestruturados.
+Skill: literatura científica
+Descrição da skill: Meio para informar a comunidade científica, incluindo os investigadores académicos, sobre os resultados da investigação científica. Constitui uma coleção permanente e cumulativa de todos os resultados da investigação científica em diversos domínios e em qualquer momento.
+
+Skill: estatística
+Descrição da skill: Estudo da teoria estatística, métodos e práticas como a recolha, a organização, a análise, a interpretação e a apresentação de dados. Trata de todos os aspetos dos dados, incluindo o planeamento da recolha de dados em termos de conceção de inquéritos e experiências, a fim de prever e planear atividades relacionadas com o trabalho.
+Skill: categorização de informação
+Descrição da skill: O processo de classificação das informações em categorias e de mostrar relações entre os dados para alguns fins claramente definidos.
+Skill: linguagem RDF
+Descrição da skill: As línguas de pesquisa, como a SPARQL, que são utilizadas para extrair e manipular dados armazenados em formato Resource Description Framework (RDF).
+Relacionada: linguagens de pesquisa
+Skill: linguagens de pesquisa
+Descrição da skill: O domínio das línguas informáticas normalizadas para consulta de informações a partir de uma base de dados e de documentos que contenham as informações necessárias.
+Skill: processamento analítico em linha
+Descrição da skill: Ferramentas em linha que analisam, agregam e apresentam dados multidimensionais que permitem aos utilizadores extrair e visualizar, de forma interativa e seletiva, dados de pontos de vista específicos.
+Skill: ética dos dados
+Descrição da skill: Subdomínio da ética que avalia se as práticas em matéria de dados são sólidas do ponto de vista ético. Avalia processos como a recolha, a análise e a divulgação de dados estruturados e não estruturados que possam ter um impacto negativo na sociedade.
+
+Skill: ciência dos dados
+Descrição da skill: Domínio de estudo que trata de uma grande quantidade de dados utilizando técnicas de IA, como algoritmos de aprendizagem automática, para prever padrões e obter informações úteis para a tomada de decisões empresariais.
+
+Skill: análise empírica
+Descrição da skill: Método baseado em provas concretas utilizado para analisar e interpretar informações com o objetivo de tirar conclusões sobre uma questão específica.
+
+Skill: modelos de dados
+Descrição da skill: As técnicas e os sistemas existentes utilizados para estruturar elementos de dados e mostrar relações entre eles, bem como métodos de interpretação das estruturas e relações de dados.
+Skill: redigir textos científicos ou académicos e documentação técnica
+Descrição da skill: Redigir e editar textos científicos, académicos ou técnicos sobre diferentes matérias.
+
+Skill: normalizar dados
+Descrição da skill: Reduzir os dados à sua forma de base precisa (formas normais), a fim de alcançar resultados tais como minimização da dependência, eliminação de redundância e aumento da consistência.
+Relacionada: dados não estruturados
+Skill: gerir dados de investigação
+Descrição da skill: Produzir e analisar dados científicos recolhidos a partir de métodos de investigação qualitativos e quantitativos. Armazenar e guardar os dados em bases de dados de investigação. Favorecer a reutilização de dados científicos e conhecer os princípios de gestão de dados abertos.
+
+Skill: utilizar técnicas de processamento de dados
+Descrição da skill: Recolher, tratar e analisar dados e informações pertinentes, armazenar e atualizar adequadamente os dados e representar os valores e dados através de gráficos e diagramas estatísticos.
+Skill: interpretar dados atuais
+Descrição da skill: Analisar os dados recolhidos a partir de fontes como os dados de mercado, artigos científicos, os requisitos dos clientes e os questionários, cujas informações são atuais e atualizadas, a fim de avaliar o desenvolvimento e a inovação em áreas de especialização.
+Relacionada: modelos de dados
+Skill: interagir profissionalmente em contextos de investigação e profissionais
+Descrição da skill: Demonstrar respeito e consideração por terceiros. Escutar, dar e receber feedback e responder aos outros num espírito de compreensão, passando também pela supervisão e pela liderança do pessoal num contexto profissional.
+
+Skill: divulgar os resultados à comunidade científica
+Descrição da skill: Divulgar publicamente os resultados científicos por qualquer meio adequado, incluindo conferências, workshops, colóquios e publicações científicas.
+
+Skill: programar software de código-fonte aberto
+Descrição da skill: Programar e produzir software de código-fonte aberto. Conhecer os principais modelos de código-fonte aberto, regimes de licenciamento e práticas de codificação comummente adotadas na produção de software de código-fonte aberto.
+
+Skill: desenvolver processos de tratamento de dados
+Descrição da skill: Utilizar ferramentas TIC para aplicar processos matemáticos, algorítmicos ou outros processos de manipulação de dados, a fim de criar informação.
+Skill: falar várias línguas
+Descrição da skill: Dominar línguas estrangeiras para poder comunicar numa ou mais línguas estrangeiras.
+Relacionada: comunicação
+Relacionada: línguas clássicas
+Relacionada: línguas modernas
+Relacionada: línguas estrangeiras para carreiras internacionais
+Skill: executar cálculos para análise matemática
+Descrição da skill: Aplicar métodos matemáticos e utilizar tecnologias de cálculo para efetuar análises e encontrar soluções para problemas específicos.
+Relacionada: matemática
+Skill: avaliar atividades de investigação
+Descrição da skill: Avaliar os progressos, o impacto e os resultados de outros investigadores.
+
+Skill: demonstrar conhecimentos especializados numa determinada disciplina
+Descrição da skill: Demonstrar conhecimentos profundos e uma compreensão complexa de um domínio de investigação específico, incluindo em termos de investigação responsável, ética da investigação e princípios de integridade científica, privacidade e requisitos do RGPD, em relação com atividades de investigação no âmbito de uma disciplina específica.
+
+Skill: utilizar bases de dados
+Descrição da skill: Utilizar ferramentas de «software» para gerir e organizar dados num ambiente estruturado que consista em atributos, tabelas e relações, a fim de consultar e alterar os dados armazenados.
+Relacionada: base de dados
+Relacionada: sistemas de gestão de bases de dados
+Skill: manusear amostras de dados
+Descrição da skill: Recolher e selecionar um conjunto de dados de uma população através de um procedimento estatístico ou outro procedimento definido.
+Skill: gerir os conhecimentos para maximizar o impacto das políticas
+Descrição da skill: Aumentar o impacto e a utilização dos resultados da investigação nas políticas, assegurando que os factos mais úteis são comunicados e compreendidos em tempo útil para que sejam tidos em conta pelos decisores ao longo de todo o ciclo de elaboração de políticas.
+
+Relacionada: gestão de conhecimentos
+Skill: gerir dados acessíveis e fáceis de encontrar, interoperáveis e reutilizáveis
+Descrição da skill: Produzir, descrever, armazenar, preservar e (re)utilizar dados científicos baseados nos princípios FAIR (fáceis de encontrar, acessíveis, interoperáveis e reutilizáveis), tornando os dados tão abertos quanto possível e tão fechados quanto necessário.
+
+Skill: realizar investigações científicas
+Descrição da skill: Participar na conceção ou na geração de novos conhecimentos, formulando perguntas, investigando, aperfeiçoando ou desenvolvendo conceitos, teorias, modelos, técnicas, instrumentação, software ou métodos operacionais, e utilizando técnicas e métodos científicos.
+
+Relacionada: metodologia da investigação científica
+Skill: construir sistemas de recomendações
+Descrição da skill: Construir sistemas de recomendação baseados em grandes conjuntos de dados, utilizando linguagens de programação ou ferramentas informáticas para criar um sistema de filtragem de informação por subcategorias, destinado a prever a classificação ou preferência que um utilizador atribui a um elemento.
+Relacionada: plataformas de ofertas de emprego em linha
+Skill: limpar dados
+Descrição da skill: Detetar e corrigir registos corrompidos a partir de conjuntos de dados, assegurar que os dados ficam e se mantêm estruturados de acordo com orientações estabelecidas.
+Relacionada: dados não estruturados
+Skill: gerir direitos de propriedade intelectual
+Descrição da skill: Gerir os direitos jurídicos privados que protegem bens intelectuais contra violações ilícitas.
+
+Skill: solicitar financiamento para investigação
+Descrição da skill: Identificar as principais fontes de financiamento relevantes e preparar o pedido de subvenção de atividades de investigação, a fim de obter financiamento.
+
+Skill: conceber esquemas de bases de dados
+Descrição da skill: Elaborar um esquema de bases de dados com base nas regras do Sistema de Gestão de Bases de Dados Relacionais (RDBMS), a fim de criar um grupo de objetos logicamente organizado, tais como tabelas, colunas e processos.
+Relacionada: ferramentas de criação de bases de dados
+Skill: executar processos de garantia da qualidade dos dados
+Descrição da skill: Aplicar técnicas de análise, validação e verificação da qualidade em dados, a fim de verificar a integridade da qualidade dos dados.
+Relacionada: dados não estruturados
+Skill: recolher dados informáticos
+Descrição da skill: Recolher dados através da conceção e da aplicação de métodos de pesquisa e de amostragem.
+Skill: aplicar princípios éticos e de integridade científica nas atividades de investigação
+Descrição da skill: Aplicar a legislação e os princípios éticos fundamentais à investigação científica, incluindo questões de integridade da investigação. Realizar investigação e rever ou comunicar os seus resultados evitando condutas incorretas, tais como a fabricação de factos, a falsificação e o plágio.
+
+Skill: promover a inovação aberta na investigação
+Descrição da skill: Promover colaborações integradas em que as diferentes partes interessadas geram, em conjunto, inovações de valor partilhado.
+Skill: publicar investigações académicas
+Descrição da skill: Realizar investigação académica, numa universidade, num estabelecimento de ensino superior ou por conta própria, no seu domínio de especialização e publicá-la em livros ou revistas académicas, com o objetivo de contribuir para a sua área de intervenção e obter acreditação académica pessoal.
+
+Relacionada: metodologia da investigação científica
+Skill: promover a transferência de conhecimentos
+Descrição da skill: Mostrar uma ampla consciência de processos de valorização do conhecimento com o objetivo de maximizar o fluxo bidirecional de tecnologias, propriedade intelectual, conhecimentos especializados e capacidades entre a base de investigação e a indústria ou o setor público.
+
+Skill: pensar de forma abstrata
+Descrição da skill: Demonstrar a capacidade de utilizar conceitos para fazer e compreender generalizações, e relacioná-los com outras ideias, eventos ou experiências.
+
+Skill: orientar pessoas
+Descrição da skill: Orientar pessoas através da prestação de apoio emocional, da partilha de experiências e de aconselhamento individual para as ajudar no seu desenvolvimento pessoal, bem como através da adaptação do apoio às necessidades específicas das pessoas e da satisfação dos seus pedidos e expectativas.
+Skill: gerir sistemas de recolha de dados
+Descrição da skill: Desenvolver e gerir métodos e estratégias destinados a maximizar a qualidade dos dados e a eficiência estatística na recolha de dados, a fim de garantir o melhor tratamento posterior dos dados recolhidos.
+Relacionada: gestão de coleções
+Skill: gerir o desenvolvimento profissional pessoal
+Descrição da skill: Assumir a responsabilidade pela aprendizagem ao longo da vida e pelo desenvolvimento profissional contínuo. Participar em programas de aprendizagem para adquirir e aperfeiçoar competências profissionais. Identificar os domínios prioritários para o desenvolvimento profissional, com base numa reflexão sobre práticas próprias e através do contacto com os seus pares e as partes interessadas.
+
+Relacionada: desenvolvimento pessoal
+Relacionada: teorias de desenvolvimento da personalidade
+Skill: redigir publicações científicas
+Descrição da skill: Apresentar a hipótese, resultados e conclusões da sua investigação científica no seu domínio de competências numa publicação profissional.
+
+Skill: realizar apresentação visual de dados
+Descrição da skill: Criar representações visuais de dados, tais como gráficos ou diagramas, para facilitar a compreensão.
+Relacionada: técnicas de apresentação visual
+Skill: relatar os resultados de análises
+Descrição da skill: Apresentar documentos de investigação ou fazer apresentações para comunicar os resultados de um projeto de investigação e análise realizado, indicando os procedimentos e métodos de análise que conduziram aos resultados, bem como potenciais interpretações dos resultados.
+Relacionada: análise financeira
+Relacionada: metodologia da investigação científica
+Skill: desenvolver uma rede profissional com investigadores e cientistas
+Descrição da skill: Desenvolver alianças, contactos ou parcerias e trocar informações com terceiros. Promover colaborações integradas e abertas em que as diferentes partes interessadas geram, em conjunto, inovações e investigação de valor partilhado. Desenvolver o perfil pessoal ou marca própria, dar-se a conhecer e mostrar-se acessível em ambientes de networking presenciais e em linha.
+
+Skill: integrar a dimensão do género na investigação
+Descrição da skill: Ter em conta, em todo o processo de investigação, as características biológicas e a evolução das características sociais e culturais das mulheres e dos homens (género).
+Skill: gerir projetos
+Descrição da skill: Gerir e planear vários recursos, tais como recursos humanos, orçamento, prazo, resultados e qualidade, necessários para um projeto específico e acompanhar o avanço do projeto a fim de alcançar um objetivo específico num prazo e orçamento definidos.
+Relacionada: princípios de gestão de projetos
+Relacionada: gestão de projetos
+Skill: gerir publicações em acesso aberto
+Descrição da skill: Conhecer as estratégias de publicação em acesso aberto, com a utilização de tecnologias da informação para apoiar a investigação e o desenvolvimento e a gestão de sistemas de informação de investigação atual (CRIS) e de repositórios institucionais. Prestar aconselhamento em matéria de licenças e direitos de autor, utilizar indicadores bibliométricos e avaliar e comunicar o impacto da investigação.
+
+Skill: sintetizar informações
+Descrição da skill: Ler, interpretar e sintetizar de forma crítica informações novas e complexas provenientes de diversas fontes.
+
+Skill: realizar atividades de investigação em várias disciplinas
+Descrição da skill: Realizar atividades de investigação que cruzam as fronteiras disciplinares e funcionais.
+
+Skill: desenvolver aplicações de tratamento de dados
+Descrição da skill: Criar um software personalizado para tratamento de dados, selecionando e utilizando a linguagem de programação informática adequada para que um sistema TIC produza os resultados exigidos com base num input previsto.
+Skill: promover a participação do público na investigação
+Descrição da skill: Colaborar com o público na conceção e na realização de atividades de investigação e na difusão dos seus resultados.
+
+Skill: comunicar descobertas científicas
+Descrição da skill: Partilhar com o público em geral descobertas científicas recentes e um entusiasmo pela ciência, aumentar o conhecimento, a apreciação e a compreensão da ciência por parte do público, promover a utilização dos resultados científicos na formação de opiniões.
+
+Skill: simulação por computador
+Descrição da skill: Programa executado num computador que representa as respostas dinâmicas de um sistema para explorar um comportamento de modelo matemático, utilizando um modelo de um sistema real, composto por equações matemáticas.
+
+Skill: análise de marketing
+Descrição da skill: Conjunto de processos de utilização de dados para melhorar a eficácia das atividades de marketing. Implica a análise de parâmetros, como a rentabilidade do investimento, para identificar oportunidades de melhoria.
+
+Skill: inteligência empresarial
+Descrição da skill: As ferramentas utilizadas para transformar grandes quantidades de dados em bruto em informações comerciais pertinentes e úteis.
+Skill: MDX
+Descrição da skill: A linguagem informática MDX é uma linguagem de interrogação para consulta de informações a partir de uma base de dados e de documentos que contêm as informações necessárias. É desenvolvida pela empresa de software Microsoft.
+Skill: análise das redes sociais
+Descrição da skill: Método de investigação que é explorado principalmente na sociologia e nas ciências da comunicação e que se centra na análise das relações entre indivíduos e entre organizações e Estados.
+
+Skill: XQuery
+Descrição da skill: A linguagem informática XQuery é uma linguagem de pesquisa para obter informações de uma base de dados e de documentos que contêm as informações necessárias. É desenvolvida pela organização internacional de normas Consórcio World Wide Web.
+Skill: reconhecimento de imagens
+Descrição da skill: Processo concebido para detetar e identificar uma característica ou objeto numa imagem ou num vídeo. Este processo é utilizado em imagiologia médica, vigilância para fins de segurança ou deteção de defeitos, entre outros domínios. É uma técnica fundamental para uma vasta gama de aplicações, como a condução automatizada, a classificação de imagens ou a inspeção visual.
+
+Skill: computação científica
+Descrição da skill: Domínio interdisciplinar entre a informática, a matemática e a engenharia. Diz respeito ao emprego de abordagens técnicas e de enquadramentos teóricos, bem como à utilização de computadores, para tratar de questões no domínio da ciência e da engenharia.
+
+Skill: SPARQL
+Descrição da skill: A linguagem informática SPARQL é uma linguagem de pesquisa para obter informações de uma base de dados e de documentos que contêm as informações necessárias. É desenvolvida pelo consórcio internacional de normalização World Wide Web.
+Skill: conceção de pesquisas
+Descrição da skill: Conjunto de métodos e técnicas de investigação utilizados para a realização de um estudo. Inclui etapas práticas da investigação, tais como a declaração de finalidade, a recolha de dados, a metodologia e a análise de dados.
+
+Skill: curadoria digital
+Descrição da skill: Domínio que trata da manutenção, preservação e valorização da investigação digital.
+
+Skill: analítica organizacional
+Descrição da skill: As disciplinas e tecnologias destinadas a resolver os problemas das empresas através de métodos quantitativos, tais como a análise de dados e modelos estatísticos.
+
+Skill: investigação multidisciplinar
+Descrição da skill: Técnica de investigação em que uma questão comum é investigada utilizando abordagens de diferentes disciplinas, com o objetivo de encontrar uma solução global para a mesma.
+
+Skill: análise dos cuidados de saúde
+Descrição da skill: Utilização de métodos qualitativos e quantitativos para analisar padrões nos dados dos cuidados de saúde, com o objetivo de melhorar a administração e a qualidade dos cuidados de saúde e o diagnóstico de doenças.
+
+Skill: LDAP
+Descrição da skill: A linguagem informática LDAP é uma linguagem de pesquisa e extração de informações a partir de uma base de dados e de documentos que contêm as informações necessárias.
+Skill: dados não estruturados
+Descrição da skill: As informações que não estão dispostas de forma predefinida ou que não têm um modelo de dados predefinido, sendo difícil compreender e encontrar padrões nas mesmas sem utilizar técnicas como a análise de dados.
+Skill: LINQ
+Descrição da skill: A linguagem informática LINQ é uma linguagem de consulta para recolha de informações a partir de uma base de dados e de documentos que contêm as informações necessárias. É desenvolvida pela empresa de software Microsoft.
+Skill: avaliação da qualidade dos dados
+Descrição da skill: O processo de revelação de problemas relativos a dados utilizando indicadores, medidas e métricas de qualidade, a fim de planear a depuração dos dados e estratégias de enriquecimento dos dados, de acordo com os critérios de qualidade dos dados.
+Skill: estimativa do estado
+Descrição da skill: Processo de fusão das medições dos dados de entrada com um modelo matemático para determinar o estado interno de um sistema energético
+
+Skill: Hadoop
+Descrição da skill: O sistema de armazenamento, análise e processamento de dados de código-fonte aberta, que consiste principalmente nos componentes MapReduce e Hadoop de sistemas de ficheiros distribuídos (HDFS) e é utilizado para apoiar a gestão e a análise de grandes conjuntos de dados.
+Skill: biologia computacional
+Descrição da skill: Domínio científico interdisciplinar que se centra na utilização de teorias e análises de dados para investigar os sistemas biológicos obtidos através de experiências.
+
+Skill: N1QL
+Descrição da skill: A linguagem informática N1QL é uma linguagem de consulta para recolha de informações a partir de uma base de dados e de documentos que contêm as informações necessárias. É desenvolvida pela empresa de software Couchbase.
+Skill: gerir classificação de dados de TIC
+Descrição da skill: Supervisionar o sistema de classificação que uma organização utiliza para organizar os seus dados. Atribuir um proprietário a cada conceito de dados ou conjunto de conceitos e determinar o valor de cada item de dados.
+Skill: utilizar software de folha de cálculo
+Descrição da skill: Utilizar ferramentas de software para criar e editar dados tabulares para efetuar cálculos matemáticos, organizar dados e informações, criar diagramas baseados em dados e obter esses mesmos dados.
+Skill: efetuar prospeção de dados
+Descrição da skill: Explorar grandes conjuntos de dados para revelar padrões através do uso de estatísticas, sistemas de bases de dados ou inteligência artificial e apresentar as informações de forma compreensível.
+Relacionada: análise de dados
+Relacionada: métodos de prospeção de dados
+Relacionada: dados não estruturados
+Skill: integrar dados de TIC
+Descrição da skill: Combinar dados de fontes para proporcionar uma visão unificada do conjunto desses dados.
+Skill: ensinar em contextos académicos ou profissionais
+Descrição da skill: Dar formação a estudantes sobre a teoria e a prática de disciplinas académicas ou profissionais, transmitindo o conteúdo das atividades de investigação próprias e de terceiros.
+
+Skill: gerir arquitetura de dados informáticos
+Descrição da skill: Supervisionar os regulamentos e utilizar técnicas informáticas para definir a arquitetura dos sistemas de informação e controlar os processos de recolha, armazenamento, consolidação, organização e utilização de dados numa organização.
+Relacionada: arquitetura da informação
+Relacionada: arquitetura de sistemas TIC
+Relacionada: dados não estruturados
+Skill: definir critérios de qualidade dos dados
+Descrição da skill: Especificar os critérios utilizados na avaliação da qualidade dos dados para fins profissionais, como as incoerências, a existência de lacunas, a facilidade de utilização e a exatidão.
+Skill: projetar bases de dados em nuvem
+Descrição da skill: Aplicar princípios de design com vista à criação de bases de dados adaptáveis, elásticas, automatizadas e fracamente acopladas que utilizem infraestruturas de computação em nuvem. Procurar eliminar eventuais pontos únicos de falha através da conceção de base de dados distribuídas.
+
+Relacionada: base de dados
+Relacionada: computação distribuída
+Relacionada: desenhar a arquitetura de computação em nuvem
+Relacionada: conceber esquemas de bases de dados
+Relacionada: conceber especificações de cópia de segurança de bases de dados
+Skill: gerir dados
+Descrição da skill: Administrar todos os tipos de recursos de dados ao longo do seu ciclo de vida através da definição de perfis de dados, de análises e da normalização, bem como da resolução, limpeza, reforço e auditoria de identidades. Assegurar que os dados são adequados ao fim a que se destinam, utilizando ferramentas informáticas especializadas para o cumprimento dos critérios de qualidade dos dados.
+Relacionada: técnicas de auditoria
+Relacionada: gestão de dados sobre os produtos
+Skill: implementar métodos de aprendizagem mista
+Descrição da skill: Familiarizar-se com ferramentas de aprendizagem mista, combinando a tradicional aprendizagem presencial e a aprendizagem em linha através da utilização de ferramentas digitais, tecnologias em linha e métodos de aprendizagem eletrónica.
+
+Skill: tomar decisões baseadas em dados
+Descrição da skill: Recolher dados, tais como indicadores-chave de desempenho (ICD), para uma empresa e utilizar as informações para formular ações e estratégias.
+
+Skill: criar modelos de dados
+Descrição da skill: Utilizar técnicas e metodologias específicas para analisar os requisitos em matéria de dados dos processos empresariais de uma organização, a fim de criar modelos para estes dados, como sejam modelos conceptuais, lógicos e físicos. Estes modelos têm uma estrutura e um formato específicos.
+Relacionada: modelos de dados
+
+Pressione Enter para continuar para a próxima ocupação...
+
+--- Detalhes da ocupação: Analista de dados ---
+description: Os operadores de registo de dados procedem à atualização, manutenção e obtenção de informações mantidas nos sistemas informáticos. Preparam dados de origem para serem introduzidos no computador, através da compilação e triagem de informações, tratam documentos de origem dos clientes e das contas, através da revisão dos dados para eliminar deficiências, e verificam os dados introduzidos relativos ao clientes e às contas.
+Skill: tipos de documentação
+Descrição da skill: As características dos tipos de documentação interna e externa alinhadas com o ciclo de vida dos produtos informáticos e os respetivos tipos de conteúdo específicos.
+Skill: base de dados
+Descrição da skill: A classificação de bases de dados, que inclui a sua finalidade, características, terminologia, modelos e utilização tais como bases de dados XML, bases de dados orientadas por documentos e bases de dados de texto integral.
+Skill: linguagem RDF
+Descrição da skill: As línguas de pesquisa, como a SPARQL, que são utilizadas para extrair e manipular dados armazenados em formato Resource Description Framework (RDF).
+Relacionada: linguagens de pesquisa
+Skill: linguagens de pesquisa
+Descrição da skill: O domínio das línguas informáticas normalizadas para consulta de informações a partir de uma base de dados e de documentos que contenham as informações necessárias.
+Skill: aplicar técnicas de análise estatística
+Descrição da skill: Utilizar modelos (estatísticas descritivas ou inferenciais) e técnicas (prospeção de dados ou aprendizagem automática) para análises estatísticas, bem como ferramentas informáticas para análise de dados, deteção de correlações e previsão de tendências.
+Relacionada: algoritmização de tarefas
+Relacionada: estatística
+Relacionada: software de análise estatística
+Relacionada: métodos de análise do desempenho das TIC
+Skill: limpar dados
+Descrição da skill: Detetar e corrigir registos corrompidos a partir de conjuntos de dados, assegurar que os dados ficam e se mantêm estruturados de acordo com orientações estabelecidas.
+Relacionada: dados não estruturados
+Skill: utilizar «software» de processamento de texto
+Descrição da skill: Utilizar aplicações de «software» informático para a composição, edição, formatação e impressão de qualquer tipo de material escrito.
+Skill: aplicar políticas de segurança da informação
+Descrição da skill: Aplicar políticas, métodos e regulamentos para a segurança dos dados e da informação, a fim de respeitar os princípios de confidencialidade, integridade e disponibilidade.
+Relacionada: proteção de dados
+Relacionada: confidencialidade da informação
+Relacionada: respeitar princípios relativos à proteção de dados
+Skill: efetuar a manutenção de requisitos de inserção de dados
+Descrição da skill: Manter as condições para a inserção de dados. Seguir os procedimentos e aplicar técnicas de programação de dados.
+Skill: processar dados
+Descrição da skill: Introduzir informações num sistema de armazenamento e recolha de dados através de processos como a digitalização, a introdução manual de dados ou a transferência eletrónica de dados, a fim de tratar grandes quantidades de dados.
+Skill: software de reconhecimento ótico de carateres
+Descrição da skill: O software que converte eletronicamente as imagens impressas e datilografadas no texto codificado de modo que os documentos possam ser armazenados eletronicamente, editados e exibidos digitalmente.
+Skill: MDX
+Descrição da skill: A linguagem informática MDX é uma linguagem de interrogação para consulta de informações a partir de uma base de dados e de documentos que contêm as informações necessárias. É desenvolvida pela empresa de software Microsoft.
+Skill: XQuery
+Descrição da skill: A linguagem informática XQuery é uma linguagem de pesquisa para obter informações de uma base de dados e de documentos que contêm as informações necessárias. É desenvolvida pela organização internacional de normas Consórcio World Wide Web.
+Skill: SPARQL
+Descrição da skill: A linguagem informática SPARQL é uma linguagem de pesquisa para obter informações de uma base de dados e de documentos que contêm as informações necessárias. É desenvolvida pelo consórcio internacional de normalização World Wide Web.
+Skill: ABBYY FineReader
+Descrição da skill: O programa de computador ABBYY FineReader é um software que converte eletronicamente as imagens impressas e datilografadas em texto codificado automaticamente, de modo a que os documentos possam ser armazenados eletronicamente, editados e apresentados digitalmente.
+Skill: confidencialidade da informação
+Descrição da skill: Os mecanismos e regulamentos que permitem o controlo seletivo do acesso e garantem que apenas as partes autorizadas (pessoas, processos, sistemas e dispositivos) têm acesso aos dados, as formas de respeitar as informações confidenciais e os riscos de incumprimento.
+Skill: LDAP
+Descrição da skill: A linguagem informática LDAP é uma linguagem de pesquisa e extração de informações a partir de uma base de dados e de documentos que contêm as informações necessárias.
+Skill: armazenamento de dados
+Descrição da skill: Os conceitos físicos e técnicos da forma como o armazenamento de dados digitais está organizado em regimes específicos, tanto a nível local, como discos rígidos ou memórias de acesso aleatório (RAM), como à distância, através de redes, da Internet ou da nuvem.
+Skill: LINQ
+Descrição da skill: A linguagem informática LINQ é uma linguagem de consulta para recolha de informações a partir de uma base de dados e de documentos que contêm as informações necessárias. É desenvolvida pela empresa de software Microsoft.
+Skill: OmniPage
+Descrição da skill: O programa de software informático OmniPage converte eletronicamente imagens impressas e datilografadas em texto codificado automaticamente, para que os documentos possam ser eletronicamente armazenados e editados e digitalmente apresentados.
+Skill: N1QL
+Descrição da skill: A linguagem informática N1QL é uma linguagem de consulta para recolha de informações a partir de uma base de dados e de documentos que contêm as informações necessárias. É desenvolvida pela empresa de software Couchbase.
+Skill: modelos de dados
+Descrição da skill: As técnicas e os sistemas existentes utilizados para estruturar elementos de dados e mostrar relações entre eles, bem como métodos de interpretação das estruturas e relações de dados.
+Skill: gerir classificação de dados de TIC
+Descrição da skill: Supervisionar o sistema de classificação que uma organização utiliza para organizar os seus dados. Atribuir um proprietário a cada conceito de dados ou conjunto de conceitos e determinar o valor de cada item de dados.
+Skill: utilizar uma interface própria de uma aplicação
+Descrição da skill: Compreender e usar interfaces específicas para um aplicação ou caso de uso.
+Skill: normalizar dados
+Descrição da skill: Reduzir os dados à sua forma de base precisa (formas normais), a fim de alcançar resultados tais como minimização da dependência, eliminação de redundância e aumento da consistência.
+Relacionada: dados não estruturados
+Skill: utilizar software de folha de cálculo
+Descrição da skill: Utilizar ferramentas de software para criar e editar dados tabulares para efetuar cálculos matemáticos, organizar dados e informações, criar diagramas baseados em dados e obter esses mesmos dados.
+Skill: desenvolver processos de tratamento de dados
+Descrição da skill: Utilizar ferramentas TIC para aplicar processos matemáticos, algorítmicos ou outros processos de manipulação de dados, a fim de criar informação.
+Skill: utilizar bases de dados
+Descrição da skill: Utilizar ferramentas de «software» para gerir e organizar dados num ambiente estruturado que consista em atributos, tabelas e relações, a fim de consultar e alterar os dados armazenados.
+Relacionada: base de dados
+Relacionada: sistemas de gestão de bases de dados
+Skill: executar processos de garantia da qualidade dos dados
+Descrição da skill: Aplicar técnicas de análise, validação e verificação da qualidade em dados, a fim de verificar a integridade da qualidade dos dados.
+Relacionada: dados não estruturados
+Skill: gerir dados
+Descrição da skill: Administrar todos os tipos de recursos de dados ao longo do seu ciclo de vida através da definição de perfis de dados, de análises e da normalização, bem como da resolução, limpeza, reforço e auditoria de identidades. Assegurar que os dados são adequados ao fim a que se destinam, utilizando ferramentas informáticas especializadas para o cumprimento dos critérios de qualidade dos dados.
+Relacionada: técnicas de auditoria
+Relacionada: gestão de dados sobre os produtos
+Skill: gerir sistemas de recolha de dados
+Descrição da skill: Desenvolver e gerir métodos e estratégias destinados a maximizar a qualidade dos dados e a eficiência estatística na recolha de dados, a fim de garantir o melhor tratamento posterior dos dados recolhidos.
+Relacionada: gestão de coleções
+Skill: organizar documentos digitais
+Descrição da skill: Gerir vários formatos e ficheiros de dados através da atribuição, publicação, transformação e partilha de ficheiros e documentos e da conversão de formatos de ficheiros.
+Relacionada: gestão de documentos informáticos
+Skill: aplicar técnicas organizacionais
+Descrição da skill: Utilizar um conjunto de técnicas e procedimentos organizacionais que facilitam a realização dos objetivos definidos, tais como planeamento pormenorizado dos horários do pessoal. Utilizar estes recursos de forma eficiente e sustentável e demonstrar flexibilidade quando necessário.
+Skill: executar técnicas de armazenamento de dados
+Descrição da skill: Aplicar modelos e ferramentas, como o processamento analítico em linha (OLAP) e o processamento de transações em linha (OLTP), a fim de integrar dados estruturados ou não estruturados de fontes, com o objetivo de criar um depositário central de dados históricos e correntes.
+Relacionada: dados não estruturados
+
+Pressione Enter para continuar para a próxima ocupação...
+
+Digite os números das profissões que se aplicam (ex: 1, 3)
+ou digite 'd' para detalhar as ocupações antes de decidir.
+Sua escolha: 1, 3, 4
+
+=== TOKENIZAÇÃO ===
+['analistas', 'dados', 'executam', 'funções', 'importação', 'inspeção', 'depuração', 'transformação', 'validação', 'modelação']
+
+=== STEMMING ===
+['anal', 'dad', 'execut', 'funç', 'import', 'inspeç', 'depur', 'transform', 'valid', 'model']
+
+=== LEMATIZAÇÃO ===
+['analista', 'dar', 'executar', 'função', 'importação', 'inspeção', 'depuração', 'transformação', 'validação', 'modelação']
+
+ Processando: Curriculo-Pedro-Medeiros.pdf
+
+=== TOKENIZAÇÃO ===
+['PEDRO', 'MEDEIROS', 'anos', 'Lagoa', 'Nova', 'Natal', 'RN', 'Disponibilidade', 'mudança', 'Objetivo']
+
+=== STEMMING ===
+['pedr', 'med', 'ano', 'lago', 'nov', 'natal', 'rn', 'disponibil', 'mudanç', 'obje']
+
+=== LEMATIZAÇÃO ===
+['PEDRO', 'MEDEIROS', 'ano', 'Lagoa', 'Nova', 'Natal', 'RN', 'Disponibilidade', 'mudança', 'objetivo']
+
+ Processando: curriculo.pdf
+
+=== TOKENIZAÇÃO ===
+['PEDRO', 'MEDEIROS', 'anos', 'Lagoa', 'Nova', 'Natal', 'RN', 'Disponibilidade', 'mudança', 'Objetivo']
+
+=== STEMMING ===
+['pedr', 'med', 'ano', 'lago', 'nov', 'natal', 'rn', 'disponibil', 'mudanç', 'obje']
+
+=== LEMATIZAÇÃO ===
+['PEDRO', 'MEDEIROS', 'ano', 'Lagoa', 'Nova', 'Natal', 'RN', 'Disponibilidade', 'mudança', 'objetivo']
+
+Comparando currículo: Curriculo-Pedro-Medeiros.pdf
+
+ TOKENIZAÇÃO
+ Cobertura: 8.43%
+ Similaridade: 0.2665
+ Interseção de palavras (95): ['projeto', 'utilizando', 'atual', 'previsão', 'forma', 'implementar', 'princípios', 'automática', 'integridade', 'eficiência']
+
+ STEMMING
+ Cobertura: 18.05%
+ Similaridade: 0.3419
+ Interseção de palavras (133): ['produt', 'final', 'atual', 'decis', 'anális', 'efici', 'part', 'man', 'ferrament', 'intelig']
+
+ LEMATIZAÇÃO
+ Cobertura: 11.68%
+ Similaridade: 0.2502
+ Interseção de palavras (114): ['projeto', 'estratégia', 'parte', 'todo', 'atual', 'previsão', 'forma', 'implementar', 'integridade', 'eficiência']
+
+Comparando currículo: curriculo.pdf
+
+ TOKENIZAÇÃO
+ Cobertura: 8.34%
+ Similaridade: 0.3227
+ Interseção de palavras (94): ['projeto', 'utilizando', 'atual', 'previsão', 'forma', 'implementar', 'ciência', 'automática', 'integridade', 'eficiência']
+
+ STEMMING
+ Cobertura: 18.32%
+ Similaridade: 0.3971
+ Interseção de palavras (135): ['produt', 'web', 'final', 'atual', 'decis', 'transform', 'anális', 'efici', 'part', 'man']
+
+ LEMATIZAÇÃO
+ Cobertura: 11.78%
+ Similaridade: 0.2919
+ Interseção de palavras (115): ['projeto', 'parte', 'todo', 'atual', 'previsão', 'forma', 'implementar', 'ciência', 'integridade', 'eficiência']
+PS >

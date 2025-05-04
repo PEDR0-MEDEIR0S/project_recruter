@@ -1,0 +1,1642 @@
+PS > python occupation_keyword_search.py
+
+Ocupação: Técnico de finalização de projetos/Técnica de finalização de projetos
+================================================================================
+
+Skill: procedimentos de garantia da qualidade
+Descrição: Os procedimentos de inspeção de um produto ou sistema, a fim de garantir a sua conformidade com as especificações e os requisitos.
+
+Skill: engenharia da segurança
+Descrição: Estudo dos riscos associados a projetos e sistemas de engenharia, à prevenção de acidentes e aos benefícios de segurança decorrentes da redução de mortes e ferimentos. A disciplina centra-se na análise e na redução dos potenciais perigos nos processos de engenharia.
+
+Skill: entrada em funcionamento do projeto
+Descrição: Processo de supervisão do correto funcionamento de sistemas, edifícios ou instalações durante as fases finais antes da implementação.
+
+Skill: operações de manutenção
+Descrição: A preservação e restauro de produtos e sistemas, bem como os métodos e a logística destas práticas.
+
+Skill: processos de engenharia
+Descrição: A abordagem sistemática ao desenvolvimento e manutenção dos sistemas de engenharia.
+
+Skill: normas de qualidade
+Descrição: Os requisitos, especificações e orientações nacionais e internacionais para garantir que os produtos, serviços e processos são de boa qualidade e adequados ao fim a que se destinam.
+
+Skill: assegurar o cumprimento da legislação ambiental
+Descrição: Monitorizar atividades e executar tarefas que garantam o cumprimento de normas que envolvem a proteção ambiental e a sustentabilidade, e alterar atividades em caso de mudanças na legislação ambiental. Certificar de que os processos estão em conformidade com as regulamentações ambientais e as melhores práticas.
+Relacionadas:
+   - política ambiental
+
+   - legislação ambiental na agricultura e na silvicultura
+
+   - legislação ambiental
+
+
+Skill: registar dados de ensaios
+Descrição: Registar os dados que tenham sido identificados especificamente em ensaios anteriores, a fim de verificar se os resultados do ensaio produzem resultados específicos ou rever a reação da pessoa em causa em circunstâncias excecionais ou não habituais.
+
+Skill: identificar problemas operacionais
+Descrição: Identificar problemas de funcionamento, decidir o que fazer e apresentar o respetivo relatório em conformidade.
+
+Skill: proceder à análise do controlo de qualidade
+Descrição: Realizar inspeções e testes a serviços, processos ou produtos para avaliar a respetiva qualidade.
+Relacionadas:
+   - controlo de qualidade total
+
+   - sistemas de controlo da qualidade
+
+   - controlo da qualidade estatística
+
+
+Skill: interpretar desenhos técnicos
+Descrição: Ler e compreender desenhos técnicos, desenhos de máquinas e de processos.
+Relacionadas:
+   - planos técnicos
+
+
+Skill: testar o desempenho de centrais elétricas
+Descrição: Analisar o desempenho de centrais elétricas através da operação da central à produção máxima durante um período de tempo predeterminado, para que seja possível estabelecer um desempenho garantido e verificar os requisitos legais de qualidade.
+
+Skill: analisar dados de ensaio
+Descrição: Interpretar e analisar os dados recolhidos durante os ensaios, a fim de formular conclusões, novas perspetivas ou soluções.
+
+Skill: redigir relatórios relacionados com o trabalho
+Descrição: Elaborar relatórios relacionados com o trabalho que sustentem uma gestão eficaz das relações e um elevado nível de documentação e manutenção de registos. Redigir e apresentar resultados e conclusões de forma clara e inteligível, para que sejam compreensíveis para um público não especializado.
+
+Skill: colaborar com engenheiros
+Descrição: Trabalhar em estreita colaboração e comunicar com os engenheiros sobre projetos ou novos produtos.
+
+Skill: assegurar o cumprimento dos requisitos legais
+Descrição: Assegurar o cumprimento de todos os requisitos legais.
+Relacionadas:
+   - requisitos legais para operar no setor retalhista automóvel
+
+   - requisitos mecânicos para veículos em zonas urbanas
+
+
+Skill: verificar os parâmetros do sistema contra valores de referência
+Descrição: Assegurar que os fatores mensuráveis que definem o funcionamento de um sistema correspondem às normas predeterminadas.
+
+Skill: utilizar instrumentos de medição
+Descrição: Utilizar diferentes instrumentos de medição, consoante a propriedade a medir. Utilizar vários instrumentos para medir o comprimento, a área, o volume, a velocidade, a energia, a força, entre outros.
+Relacionadas:
+   - equipamentos de instrumentação
+
+   - instrumentos de medição com precisão
+
+
+Skill: utilizar ferramentas de construção e reparação
+Descrição: Construir e reparar navios e equipamentos que utilizem ferramentas manuais, ferramentas mecânicas e instrumentos de medição. Efetuar, com segurança, reparações de emergência ou temporárias. Tomar medidas para garantir um ambiente de trabalho seguro. Utilizar diversos tipos de vedantes e empanques.
+
+Skill: apresentar relatórios
+Descrição: Apresentar resultados, estatísticas e conclusões de forma transparente e simples a um público.
+
+Skill: reparar componentes eletrónicos
+Descrição: Reparar, substituir ou ajustar componentes ou circuitos eletrónicos danificados; utilizar ferramentas manuais e equipamentos de soldadura.
+Relacionadas:
+   - componentes eletrónicos
+
+   - eletrónica
+
+
+Skill: garantir a conformidade com as especificações
+Descrição: Garantir que os produtos montados são conformes com as especificações indicadas.
+
+Skill: gestão de projetos
+Descrição: A disciplina que consiste na gestão de projetos, nas atividades que compõem esta área e nas variáveis nela implícitas, como tempo, os recursos, os requisitos, os prazos e a resposta a acontecimentos imprevistos.
+
+Skill: gerir sistemas de instrumentação
+Descrição: Assegurar a instalação, o ajuste, a operação e a manutenção de sistemas de instrumentação. Processar e analisar dados e apresentar os resultados da investigação.
+
+Skill: efetuar a manutenção do equipamento de ensaio
+Descrição: Efetuar a manutenção de equipamento utilizado para testar a qualidade de sistemas e produtos.
+
+Skill: validar matérias-primas
+Descrição: Validar e calibrar equipamentos e executar métodos e procedimentos para receção de matérias-primas de fornecedores.
+
+Skill: gerir projetos
+Descrição: Gerir e planear vários recursos, tais como recursos humanos, orçamento, prazo, resultados e qualidade, necessários para um projeto específico e acompanhar o avanço do projeto a fim de alcançar um objetivo específico num prazo e orçamento definidos.
+Relacionadas:
+   - princípios de gestão de projetos
+
+   - gestão de projetos
+
+
+Skill: manter registos escritos das reparações
+Descrição: Manter registos escritos das intervenções de reparação e manutenção realizadas, das peças e materiais utilizados e de outros factos da reparação.
+Relacionadas:
+   - operações de manutenção
+
+
+Skill: redigir relatório de calibração
+Descrição: Redigir um relatório sobre as medições e os resultados da calibração de um instrumento. Um relatório de calibração inclui os objetivos e a abordagem do ensaio, as descrições dos instrumentos ou produtos testados, procedimentos de ensaios e os resultados dos ensaios.
+
+Ocupação: Engenheiro especialista em cálculo dos custos de projetos de construção/Engenheira especialista em cálculo dos custos de projetos de construção
+==========================================================================================================================================================
+
+Skill: direito urbanístico
+Descrição: Investimentos e acordos de desenvolvimento urbano. Evoluções legislativas na construção do ponto de vista ambiental, da sustentabilidade e das questões sociais e financeiras.
+
+Skill: códigos de construção
+Descrição: O conjunto de diretrizes que determinam as normas mínimas para edifícios e outras construções a fim de proteger a saúde e a segurança públicas.
+
+Skill: princípios de construção civil
+Descrição: Os componentes e os princípios da construção de edifícios, tais como tipos de paredes e fundações, defeitos em paredes e telhados e formas de corrigir esses defeitos.
+
+Skill: gestão de custos
+Descrição: O processo de planeamento, acompanhamento e ajustamento das despesas e receitas de uma empresa, a fim de alcançar a eficiência em termos de custos e a capacidade.
+
+Skill: atividade de medidor-orçamentista
+Descrição: Processo de estimativa, planeamento e monitorização dos custos de construção de edifícios no âmbito de grandes projetos de construção. Implica a utilização eficiente e eficaz de recursos e inclui aspetos da análise de risco, bem como a avaliação das propostas e contratos públicos.
+
+Skill: indústria da construção
+Descrição: Os produtos, marcas e fornecedores ativos no campo da construção.
+
+Skill: aconselhar sobre materiais de construção
+Descrição: Fornecer consultoria e testar uma ampla gama de materiais de construção.
+Relacionadas:
+   - materiais de construção
+
+
+Skill: supervisionar projetos de construção
+Descrição: Assegurar que o projeto de construção é realizado em conformidade com a licença de construção, os planos de execução, as especificações de desempenho e de design e com os regulamentos pertinentes.
+Relacionadas:
+   - gestão de projetos lean
+
+
+Skill: gerir orçamentos
+Descrição: Planear, controlar, elaborar relatórios sobre o orçamento e preparar orçamentos de produção definidos.
+Relacionadas:
+   - gestão de custos
+
+
+Skill: comunicar com equipas de construção
+Descrição: Trocar informações com as equipas ou os supervisores de construção para assegurar o bom andamento do projeto de construção. Obter informações atualizadas sobre os progressos e os eventuais obstáculos e informar as equipas de quaisquer alterações no calendário ou nos procedimentos.
+
+Skill: identificar objetivos do cliente
+Descrição: Identificar motivos individuais que deem origem a objetivos de adequação a curto, médio e longo prazo.
+
+Skill: calcular as quantidades de materiais de construção
+Descrição: Efetuar medições no local e calcular a quantidade de materiais necessária para o projeto de construção ou de remodelação.
+
+Skill: terminar um projeto dentro do orçamento
+Descrição: Certificar-se de que se mantém dentro do orçamento. Adaptar o trabalho e os materiais ao orçamento.
+
+Skill: preparar documentos relativos à construção
+Descrição: Elaborar, atualizar e arquivar documentos relativos ao planeamento e à execução de projetos de construção ou renovação, incluindo informações sobre os sistemas de segurança e a documentação contabilística.
+
+Skill: gerir contratos
+Descrição: Negociar os termos, as condições, os custos e outras especificações de um contrato, garantindo simultaneamente que estão conformes com os requisitos legais e que são legalmente aplicáveis. Supervisionar a execução do contrato, chegar a acordo sobre eventuais alterações e documentá-las, em linha com possíveis limitações legais.
+Relacionadas:
+   - direito contratual
+
+
+Skill: encomendar materiais de construção
+Descrição: Encomendar os materiais necessários para o projeto de construção, tendo o cuidado de adquirir o material mais adequado a bom preço.
+
+Skill: realizar atividades de contabilidade de custos
+Descrição: Executar as atividades e operações relacionadas com os custos nas atividades contabilísticas, tais como a evolução dos custos normalizados, a análise dos preços médios, a análise da margem e do rácio de custos, o controlo do inventário e a análise da variância. Comunicar os resultados à gerência e prestar aconselhamento sobre possíveis cursos de ação para controlar e reduzir os custos.
+Relacionadas:
+   - documentação e processamento de dados contabilísticos
+
+
+Skill: manter registos do avanço dos trabalhos
+Descrição: Manter registos do avanço dos trabalhos, incluindo o tempo, defeitos, avarias, etc.
+Relacionadas:
+   - gestão dos registos de saúde
+
+
+Skill: controlar despesas
+Descrição: Monitorizar e manter controlos de custos eficazes no que diz respeito a melhorias de eficiência, desperdícios, horas extraordinárias e afetação de pessoal. Avaliar os excessos e envidar esforços para melhorar a eficiência e a produtividade.
+Relacionadas:
+   - gestão de custos
+
+   - conservar registos de despesas
+
+
+Skill: direito contratual
+Descrição: O campo dos princípios legais que rege os acordos escritos entre as partes sobre a troca de bens ou serviços, incluindo obrigações contratuais e rescisão.
+
+Skill: simulação de Monte Carlo
+Descrição: Técnica matemática utilizada para prever, estimar e analisar uma série de possíveis desfechos futuros para um evento incerto. O processo é realizado através de simulação para estimar um intervalo de valores.
+
+Skill: mercado imobiliário
+Descrição: As tendências relativas à compra, venda ou arrendamento de propriedades, incluindo os terrenos, edificações e recursos naturais incluídos nas propriedades; as categorias de propriedades residenciais e propriedades para fins comerciais em que tais propriedades são comercializadas.
+
+Skill: gestão de projetos
+Descrição: A disciplina que consiste na gestão de projetos, nas atividades que compõem esta área e nas variáveis nela implícitas, como tempo, os recursos, os requisitos, os prazos e a resposta a acontecimentos imprevistos.
+
+Skill: engenharia civil
+Descrição: A disciplina da engenharia que estuda a conceção, a construção e a manutenção de obras construídas naturalmente, como estradas, edifícios e canais.
+
+Skill: normas de qualidade
+Descrição: Os requisitos, especificações e orientações nacionais e internacionais para garantir que os produtos, serviços e processos são de boa qualidade e adequados ao fim a que se destinam.
+
+Skill: direito civil
+Descrição: As normas jurídicas e as respetivas aplicações utilizadas em litígios entre diferentes partes.
+
+Skill: auditar empreiteiros
+Descrição: Examinar e documentar diferentes empreiteiros do setor, a fim de determinar se cumprem a regulamentação e as normas relativas à segurança, ao meio ambiente e qualidade de projeto, à construção e teste, etc..
+
+Skill: comunicar com clientes
+Descrição: Responder e comunicar com clientes da maneira mais eficaz e apropriada para permitir o respetivo acesso aos produtos ou serviços desejados, ou a qualquer outra ajuda de que possam necessitar.
+
+Skill: aconselhar sobre gestão de riscos
+Descrição: Prestar aconselhamento sobre políticas de gestão e estratégias de prevenção de riscos e a sua implementação, tendo em conta os diferentes tipos de riscos associados a uma organização específica.
+Relacionadas:
+   - política interna de gestão de riscos
+
+   - gestão de riscos
+
+
+Skill: verificar a conformidade de uma construção com as leis e regulamentos
+Descrição: Determinar se uma construção está em conformidade com as disposições legislativas e regulamentares.
+
+Skill: realizar um trabalho em resposta a um concurso
+Descrição: Dar resposta ao pedido de cotação à organização que abriu o concurso, e depois efetuar o trabalho ou fornecer os bens com ela acordados durante o processo de resposta a um concurso.
+
+Skill: monitorizar a conformidade com os parâmetros em projetos de construção
+Descrição: Acompanhar o avanço dos trabalhos nos estaleiros de construção e a conformidade dos vários parâmetros definidos na fase de projeto, como a qualidade, os custos, o calendário e as responsabilidades dos empreiteiros.
+
+Skill: comunicar com financiadores
+Descrição: Comunicar com entidades dispostas a financiar o projeto. Negociar acordos e contratos.
+Relacionadas:
+   - capacidade financeira
+
+   - jurisdição financeira
+
+
+Skill: facultar relatórios de análise de custos-benefícios
+Descrição: Elaborar, compilar e comunicar relatórios com uma análise dos custos discriminados sobre a proposta e os planos orçamentais da empresa. Analisar previamente os custos e benefícios financeiros ou sociais de um projeto ou investimento ao longo de um determinado período.
+
+Skill: calcular a rendibilidade
+Descrição: Tomar vários fatores em consideração para calcular o custo e as potenciais receitas ou poupanças obtidas com um produto, a fim de avaliar o potencial lucro obtido com a aquisição de um novo produto ou a implementação de um novo projeto.
+
+Skill: respeitar o calendário do projeto de construção
+Descrição: Planear, programar e acompanhar os processos de construção, a fim de assegurar a conclusão do projeto dentro do prazo estipulado.
+
+Skill: cumprir as obrigações estatutárias
+Descrição: Compreender, respeitar e aplicar as obrigações estatutárias da empresa no desempenho quotidiano do trabalho.
+
+Skill: aconselhar os arquitetos
+Descrição: Prestar aconselhamento aos arquitetos sobre questões de conceção, segurança e redução de custos durante a fase anterior à candidatura.
+
+Skill: fiscalizar o desempenho dos prestadores de serviços
+Descrição: Gerir o desempenho dos prestadores de serviços e avaliar se estão a cumprir as normas acordadas e corrigir o desempenho abaixo do nível esperado, se for necessário.
+
+Skill: monitorizar o estaleiro de construção
+Descrição: Ter sempre uma ideia geral do que se passa no estaleiro. Identificar quem está presente e em que fase do trabalho de construção está cada equipa.
+
+Skill: coordenar atividades de construção
+Descrição: Coordenar as atividades de vários trabalhadores da construção ou equipas para garantir que não interferem entre si e assegurar que as obras são efetuadas em tempo útil. Acompanhar os progressos das equipas e atualizar o calendário, se for necessário.
+
+Ocupação: Gestor de aspetos ambientais em projetos de gasoduto/Gestora de aspetos ambientais em projetos de gasoduto
+=====================================================================================================================
+
+Skill: requisitos de segurança de mercadorias transportadas por condutas
+Descrição: Os requisitos de segurança e as medidas de segurança necessárias para evitar acidentes durante o transporte de mercadorias, como petróleo e produtos petrolíferos, olefinas, amoníaco, CO2, hidrogénio e outros, através de condutas.
+
+Skill: legislação ambiental
+Descrição: As políticas e legislação ambientais aplicáveis num determinado domínio.
+
+Skill: aplicar políticas da empresa
+Descrição: Aplicar os princípios e regras que regem as atividades e processos de uma organização.
+Relacionadas:
+   - políticas empresariais
+
+
+Skill: efetuar análise de riscos
+Descrição: Identificar e avaliar fatores que possam comprometer o sucesso de um projeto ou ameaçar o funcionamento da organização. Implementar procedimentos para evitar ou minimizar o seu impacto.
+
+Skill: assegurar a conformidade regulamentar em infraestruturas de condutas
+Descrição: Assegurar o cumprimento da regulamentação aplicável às operações de condutas. Assegurar a conformidade das infraestruturas de condutas com os mandatos legais e com a regulamentação relativa ao transporte de mercadorias através de condutas.
+
+Skill: detetar falhas em infraestruturas de condutas
+Descrição: Detetar falhas em infraestruturas de condutas durante a construção ou ao longo do tempo. Detetar falhas, tais como defeitos de construção, corrosão, movimentos telúricos, picagem acidental sobre conduta em carga, etc.
+
+Skill: desenvolver uma política do ambiente
+Descrição: Desenvolver uma política organizacional de desenvolvimento sustentável e de cumprimento da legislação ambiental, em consonância com os mecanismos políticos utilizados no domínio da proteção do ambiente.
+Relacionadas:
+   - política ambiental
+
+
+Skill: utilizar ferramentas de «software» para modelização de locais
+Descrição: Utilizar «software» e outras ferramentas de modelização para criar simulações e desenvolver cenários para possíveis resultados em operações locais. Utilizar as informações recolhidas a partir de simulações e modelos para servirem de base a análises e decisões.
+Relacionadas:
+   - modelos de dados
+
+
+Skill: mitigar o impacto ambiental de projetos de condutas
+Descrição: Procurar atenuar o potencial impacto que as condutas e os produtos transportados através destas podem ter no ambiente. Investir tempo e recursos na análise dos efeitos ambientais das condutas, das medidas que podem ser tomadas para proteger o ambiente e do potencial aumento dos custos do projeto.
+
+Skill: implementar planos de ação ambiental
+Descrição: Aplicar planos relacionados com a gestão de aspetos ambientais em projetos, intervenções em sítios naturais, empresas e outros domínios.
+
+Skill: analisar dados ambientais
+Descrição: Analisar dados que interpretem as correlações entre as atividades humanas e os efeitos ambientais.
+
+Skill: combinar múltiplos domínios de conhecimento
+Descrição: Combinar contributos e considerações de uma variedade de domínios (por exemplo, técnicos, de conceção, de engenharia, sociais) no desenvolvimento de projetos ou no desempenho quotidiano de um emprego.
+
+Skill: aplicar normas de saúde e segurança
+Descrição: Aplicar normas de higiene e segurança estabelecidas pelas autoridades competentes.
+
+Skill: realizar avaliações ambientais de explorações industriais ou mineiras
+Descrição: Gerir e supervisionar a prospeção e as avaliações ambientais de explorações industriais ou mineiras. Designar e delimitar áreas para análise geoquímica e investigação científica.
+
+Skill: implementar medidas de proteção do ambiente
+Descrição: Aplicar critérios ambientais para evitar danos ambientais. Procurar uma utilização eficiente dos recursos, a fim de evitar resíduos e reduzir custos. Motivar os colegas a tomar medidas adequadas para operar de forma respeitadora do ambiente.
+
+Skill: analisar relatórios escritos relacionados com o trabalho
+Descrição: Ler e compreender relatórios escritos relacionados com o trabalho, analisar o conteúdo dos relatórios e aplicar as conclusões às operações de trabalho diário.
+
+Skill: sistemas de informação geográfica
+Descrição: As ferramentas envolvidas no mapeamento e posicionamento geográfico, como o GPS (sistemas de posicionamento global), o SIG (sistemas de informação geográfica) e a RS (teledeteção).
+
+Skill: propriedades do revestimento de condutas
+Descrição: Propriedades do revestimento das condutas, tais como anticorrosão externa, revestimento interno, revestimento pesado em betão, isolamento térmico, entre outras.
+
+Skill: geologia
+Descrição: Terra sólida, tipos de rochas, estruturas e processos de alteração.
+
+Skill: cumprir as regulamentações relativas ao transporte por condutas
+Descrição: Conhecer a regulamentação relativa ao transporte por condutas e a sua aplicação nos campos de gasodutos. Aplicar a regulamentação relativa ao transporte por condutas na construção de novas instalações.
+
+Skill: química
+Descrição: A composição, a estrutura e as propriedades das substâncias e os processos e transformações a que são submetidas; as aplicações dos diferentes produtos químicos e as suas interações, técnicas de produção, fatores de risco e métodos de eliminação.
+
+Skill: aconselhar sobre gestão de riscos
+Descrição: Prestar aconselhamento sobre políticas de gestão e estratégias de prevenção de riscos e a sua implementação, tendo em conta os diferentes tipos de riscos associados a uma organização específica.
+Relacionadas:
+   - política interna de gestão de riscos
+
+   - gestão de riscos
+
+
+Skill: investigar locais para instalação de condutas
+Descrição: Investigar diferentes tipos de locais, como locais terrestres ou marítimos, para o planeamento e a construção de infraestruturas de condutas.
+Relacionadas:
+   - tipos de condutas
+
+
+Skill: utilizar ferramentas de geo-informação
+Descrição: Empregar vários instrumentos, por exemplo, de prospeção e cartografia geológicas, geoquímicas e geofísicas para descobrir um depósito mineral.
+Relacionadas:
+   - geofísica
+
+   - ciências da Terra
+
+
+Skill: recolher dados geológicos
+Descrição: Participar na recolha de dados geológicos como logs de sondagens, cartografia geológica, levantamento geoquímico e geofísico, captura de dados digitais, etc.
+Relacionadas:
+   - geofísica
+
+
+Skill: efetuar levantamentos geodésicos para fins de construção
+Descrição: Realizar estudos e investigações preliminares para várias estruturas, terraplenagens e fundações antes do início do processo de construção.
+
+Skill: efetuar auditorias ambientais
+Descrição: Utilizar equipamento para avaliação de vários parâmetros ambientais, a fim de identificar problemas ambientais e investigar as formas de resolução dos mesmos. Realizar inspeções a fim de assegurar o cumprimento da legislação ambiental.
+
+Skill: aconselhar sobre sítios arqueológicos
+Descrição: Consultar mapas e dados geológicos e analisar fotografias aéreas; prestar aconselhamento sobre a escolha do local e sobre questões arqueológicas.
+Relacionadas:
+   - arqueologia
+
+
+Skill: efetuar estudos sobre o traçado de condutas
+Descrição: Efetuar estudos sobre o traçado com vista a analisar e recolher informações sobre as características do local, os desafios da construção e outros fatores ambientais que devam ser tidos em conta no planeamento do projeto e na instalação de condutas.
+
+Skill: desenhar poços para a produção de petróleo
+Descrição: Desenhar secções do poço que comunicam com os fluidos do reservatório e a rocha para extrair petróleo.
+
+Skill: avaliar o impacto ambiental
+Descrição: Monitorizar os impactos ambientais e realizar avaliações para identificar e reduzir os riscos ambientais da organização, tendo simultaneamente em conta os custos.
+Relacionadas:
+   - impacto ambiental do turismo
+
+
+Ocupação: Engenheiro de investigação e desenvolvimento de projeto/Engenheira de investigação e desenvolvimento de projeto
+==========================================================================================================================
+
+Skill: princípios de engenharia
+Descrição: Os elementos da engenharia como a funcionalidade, replicabilidade e a relação entre os custos e o design e a forma como estes são aplicados na conclusão de projetos de engenharia.
+
+Skill: desenhos técnicos
+Descrição: O software de desenho e os vários símbolos, perspetivas, unidades de medida, sistemas de notação, estilos visuais e esquemas de página usados em desenhos técnicos.
+
+Skill: gestão de projetos
+Descrição: A disciplina que consiste na gestão de projetos, nas atividades que compõem esta área e nas variáveis nela implícitas, como tempo, os recursos, os requisitos, os prazos e a resposta a acontecimentos imprevistos.
+
+Skill: processos de engenharia
+Descrição: A abordagem sistemática ao desenvolvimento e manutenção dos sistemas de engenharia.
+
+Skill: investigação e desenvolvimento industrial
+Descrição: Conjunto de atividades que as empresas realizam para inovar e introduzir novos produtos ou serviços ou novos processos de produção.
+
+Skill: metodologia da investigação científica
+Descrição: A metodologia teórica utilizada na investigação científica que envolve a investigação de base, a construção de uma hipótese, a sua análise, a análise dos dados e a conclusão dos resultados.
+
+Skill: recolher amostras para análise
+Descrição: Recolher amostras de materiais ou produtos para análise laboratorial.
+
+Skill: realizar investigações científicas
+Descrição: Participar na conceção ou na geração de novos conhecimentos, formulando perguntas, investigando, aperfeiçoando ou desenvolvendo conceitos, teorias, modelos, técnicas, instrumentação, software ou métodos operacionais, e utilizando técnicas e métodos científicos.
+Relacionadas:
+   - metodologia da investigação científica
+
+
+Skill: utilizar «software» de desenho técnico
+Descrição: Criar projetos e desenhos técnicos, utilizando «software» especializado.
+Relacionadas:
+   - desenhos de projeto
+
+   - desenhos técnicos
+
+
+Skill: gerir projetos de engenharia
+Descrição: Gerir os recursos, o orçamento, os prazos e os recursos humanos para o projeto de engenharia, e programar calendários, bem como todas as atividades técnicas pertinentes para o projeto.
+Relacionadas:
+   - princípios de gestão de projetos
+
+   - gestão de projetos
+
+
+Skill: recolher dados experimentais
+Descrição: Recolher dados resultantes da aplicação de métodos científicos, tais como métodos de ensaio, conceção ou medições experimentais.
+
+Skill: interpretar requisitos técnicos
+Descrição: Analisar, compreender e aplicar as informações fornecidas sobre as condições técnicas.
+Relacionadas:
+   - biomecânica da performance desportiva
+
+
+Skill: executar estudo de viabilidade
+Descrição: Realizar a avaliação e aferição do potencial de um projeto, plano, proposta ou ideia novos. Realizar um estudo normalizado, baseado em investigação e pesquisa exaustivas, para apoiar o processo de tomada de decisão.
+
+Skill: definir requisitos técnicos
+Descrição: Especificar as propriedades técnicas de bens, materiais, métodos, processos, serviços, sistemas, programas informáticos e funcionalidades, identificando e respondendo às necessidades específicas que devem ser satisfeitas de acordo com as exigências do cliente.
+Relacionadas:
+   - biomecânica da performance desportiva
+
+
+Skill: conceção de baterias
+Descrição: As técnicas utilizadas para conceber baterias, caracterizar as suas propriedades e desempenho, incluindo a análise eletroquímica e medições físicas, bem como para conceber a integração de vários componentes, a fim de satisfazer requisitos específicos para diferentes aplicações.
+
+Skill: bioeconomia
+Descrição: A produção de recursos biológicos renováveis e a conversão destes recursos e fluxos de resíduos em produtos de valor acrescentado, tais como géneros alimentícios, alimentos para animais, produtos de base biológica e bioenergia.
+
+Skill: engenharia de materiais
+Descrição: Estudo das propriedades dos materiais e substâncias existentes para produzir novos materiais ou reforçar várias propriedades existentes, como as propriedades químicas ou físicas. Envolve conhecimentos sobre a estrutura, o desempenho de diversos materiais e a transferibilidade dos materiais novos ou melhorados para diferentes indústrias.
+
+Skill: física
+Descrição: A ciência natural que envolve o estudo da matéria, do movimento, da energia, da força e de conceitos relacionados.
+
+Skill: literatura científica
+Descrição: Meio para informar a comunidade científica, incluindo os investigadores académicos, sobre os resultados da investigação científica. Constitui uma coleção permanente e cumulativa de todos os resultados da investigação científica em diversos domínios e em qualquer momento.
+
+Skill: técnicas de laboratório
+Descrição: Técnicas aplicadas nos diferentes domínios da ciência natural, a fim de obter dados experimentais, como a análise gravimétrica, a cromatografia gasosa e métodos eletrónicos ou térmicos.
+
+Skill: engenharia industrial
+Descrição: A área da engenharia relacionada com o desenvolvimento, a melhoria e a implementação de processos e sistemas complexos de conhecimento, pessoas, equipamentos, etc.
+
+Skill: software de desenho assistido por computador
+Descrição: O software de desenho assistido por computador (CAD) para a criação, modificação, análise ou otimização de um projeto.
+
+Skill: mecânica computacional
+Descrição: Utilização de modelação e simulação para prever comportamentos físicos complexos em ciência e engenharia. Interage com outras áreas da mecânica, incluindo a mecânica de sólidos e a mecânica de fluidos, e também com a ciência dos materiais, a matemática e os métodos numéricos.
+
+Skill: computação cognitiva
+Descrição: Domínio interdisciplinar entre a ciência cognitiva e a informática, que envolve a simulação de processos de pensamento humano através de uma abordagem informatizada. Utiliza algoritmos para a mineração de dados e o processamento de linguagem natural para imitar o funcionamento do cérebro humano.
+
+Skill: realizar testes em laboratório
+Descrição: Realizar testes em laboratório para produzir dados fiáveis e precisos para apoiar a pesquisa científica e os testes de produtos.
+
+Skill: adaptar projetos de engenharia
+Descrição: Ajustar projetos de produtos ou de partes de produtos, de modo a cumprirem os requisitos.
+
+Skill: aplicar processos de produção avançados
+Descrição: Melhorar os níveis de produção, a eficiência, o rendimento, os custos e as transições ao nível dos produtos e dos processos, utilizando tecnologias avançadas, inovadoras e de vanguarda.
+
+Skill: fazer simulações em laboratório
+Descrição: Fazer simulações em protótipos, sistemas ou novos produtos químicos, utilizando equipamento de laboratório.
+
+Skill: aplicar os procedimentos de segurança em laboratório
+Descrição: Certificar-se de que o equipamento de laboratório é utilizado de forma segura e que a manipulação de amostras e espécimes é efetuada de modo correto. Assegurar a validade dos resultados obtidos em investigação.
+
+Skill: utilizar equipamento de ensaio não destrutivo
+Descrição: Utilizar métodos e equipamentos específicos para ensaios não destrutivos que não causam danos ao produto, tais como radiografias, ensaios ultrassónicos, inspeções por partículas magnéticas, exames de TC industriais e outros, a fim de detetar defeitos e garantir a qualidade de produtos fabricados e de produtos reparados.
+Relacionadas:
+   - métodos de ensaio de placas de circuitos impressos
+
+   - métodos de teste de hardware
+
+   - ensaios não destrutivos
+
+   - métodos de ensaios elétricos
+
+
+Skill: utilizar software CAD
+Descrição: Utilizar sistemas de conceção assistida por computador (CAD) para facilitar a criação, modificação, análise ou otimização de um desenho ou modelo.
+Relacionadas:
+   - software de desenho assistido por computador
+
+
+Skill: redigir manuais
+Descrição: Redigir instruções sobre a utilização correta e segura dos equipamentos, das máquinas e dos sistemas.
+
+Skill: conduzir experiências científicas com animais
+Descrição: Testar medicamentos e outros produtos em animais, a fim de descobrir os seus efeitos.
+
+Skill: gerir projetos
+Descrição: Gerir e planear vários recursos, tais como recursos humanos, orçamento, prazo, resultados e qualidade, necessários para um projeto específico e acompanhar o avanço do projeto a fim de alcançar um objetivo específico num prazo e orçamento definidos.
+Relacionadas:
+   - princípios de gestão de projetos
+
+   - gestão de projetos
+
+
+Skill: assistir na investigação científica
+Descrição: Ajudar os engenheiros ou cientistas a realizar experiências, realizar análises, desenvolver novos produtos ou processos, construir a teoria e controlar a qualidade.
+
+Skill: utilizar instrumentos e equipamento matemáticos
+Descrição: Utilizar um dispositivo eletrónico portátil para efetuar operações aritméticas básicas e complexas.
+Relacionadas:
+   - matemática
+
+
+Skill: desenvolver procedimentos de ensaio
+Descrição: Desenvolver protocolos de ensaio que permitam uma série de análises de produtos, sistemas e componentes.
+Relacionadas:
+   - procedimentos de ensaio
+
+
+Ocupação: responsável pelo apoio a projetos
+============================================
+
+Skill: princípios de gestão de projetos
+Descrição: Diferentes elementos e fases da gestão de projetos.
+
+Skill: metodologia de gestão do projeto (PM²)
+Descrição: Uma metodologia aberta de gestão de projetos desenvolvida e aprovada pela Comissão Europeia e utilizada pela maioria das instituições europeias, bem como por organizações e instituições públicas e privadas nos Estados-Membros da UE, que visa permitir que os gestores de projetos proporcionem soluções e benefícios às suas organizações através da gestão eficaz do trabalho de projeto. A PM² integra elementos de uma vasta gama de boas práticas de gestão de projetos aceites a nível mundial, descritas em normas e metodologias, bem como experiência operacional, principalmente das instituições europeias.
+Relacionadas:
+   - princípios de gestão de projetos
+
+
+Skill: metodologias de garantia de qualidade
+Descrição: Princípios de garantia da qualidade, requisitos normalizados e o conjunto de processos e atividades utilizados para medir, controlar e assegurar a qualidade dos produtos e processos.
+
+Skill: gestão da configuração do projeto
+Descrição: O processo de gestão eficaz dos principais artefactos e prestações concretas do projeto, assegurando que as versões corretas são entregues ao requerente do projeto e permitindo que os gestores do projeto identifiquem o estado mais recente dos artefactos do projeto e possam recolher todas as fontes, documentos e outras informações para o projeto, impedir alterações não autorizadas, garantir a rastreabilidade dos artefactos e voltar às versões anteriores. Inclui a identificação dos elementos de configuração do projeto, os seus atributos e códigos de estado, o estabelecimento de linhas de base, a definição das funções e das responsabilidades pelas alterações autorizadas aos elementos de configuração, bem como a manutenção e o controlo de um repositório de projetos.
+
+Skill: software de gestão para escritórios
+Descrição: As características e o funcionamento de programas de software para tarefas de escritório, tais como processamento de texto, folhas de cálculo, apresentação, correio eletrónico e base de dados.
+
+Skill: assegurar a conformidade com os requisitos legais
+Descrição: Assegurar a conformidade com as normas e requisitos legais estabelecidos e aplicáveis, tais como as especificações, as políticas, as normas ou a legislação, tendo em vista os objetivos que as organizações aspiram atingir nos seus esforços.
+
+Skill: efetuar análise de riscos
+Descrição: Identificar e avaliar fatores que possam comprometer o sucesso de um projeto ou ameaçar o funcionamento da organização. Implementar procedimentos para evitar ou minimizar o seu impacto.
+
+Skill: realizar atividades de projeto
+Descrição: Realizar as atividades do projeto com base no plano de trabalho e no calendário estabelecido. Ajudar no desenvolvimento e na execução dos planos do projeto.
+Relacionadas:
+   - gestão de projetos
+
+
+Skill: gerir informação do projeto
+Descrição: Fornecer informações exatas e pertinentes a todas as partes envolvidas num projeto em tempo útil.
+Relacionadas:
+   - princípios de gestão de projetos
+
+
+Skill: facultar relatórios de análise de custos-benefícios
+Descrição: Elaborar, compilar e comunicar relatórios com uma análise dos custos discriminados sobre a proposta e os planos orçamentais da empresa. Analisar previamente os custos e benefícios financeiros ou sociais de um projeto ou investimento ao longo de um determinado período.
+
+Skill: documentar o progresso de projetos
+Descrição: Registar o trabalho de planeamento e desenvolvimento do projeto, as etapas de trabalho, os recursos necessários e os resultados finais, a fim de poder apresentar e acompanhar os projetos já realizados e em curso.
+
+Skill: utilizar sistemas de resolução de problemas informáticos
+Descrição: Utilizar um sistema especializado para acompanhar o registo, tratamento e resolução de problemas numa organização, atribuindo a cada um deles um «ticket» de apoio técnico, registando dados das pessoas envolvidas, acompanhando as alterações e apresentando o estado do «ticket» até à sua conclusão.
+
+Skill: gerir um repositório central de projetos
+Descrição: Armazenar os ficheiros e documentos do projeto num repositório central acessível ao gestor do projeto e a todas as equipas envolvidas. Utilizar ferramentas em linha e software específico disponíveis.
+
+Skill: gerir sistemas administrativos
+Descrição: Assegurar que os sistemas, processos e bases de dados administrativos são eficientes e bem geridos e constituem a base sólida para trabalhar em conjunto com o funcionário/pessoal/profissional administrativo.
+
+Skill: apresentar novos empregados
+Descrição: Realizar uma visita à empresa com os novos empregados, apresentá-los aos colegas, explicar-lhes a cultura empresarial, as rotinas e os métodos de trabalho e levá-los para o seu posto de trabalho.
+
+Skill: monitorizar a conformidade com a metodologia do projeto
+Descrição: Avaliar as atividades realizadas na execução de um projeto (desde o início até ao encerramento), a fim de garantir a conformidade com uma determinada metodologia que visa garantir que os projetos são executados de forma eficaz dentro dos condicionalismos definidos. Este processo pode ser facilitado pela utilização de listas de verificação da garantia da qualidade normalizadas, que são adaptadas para utilização na organização específica.
+
+Skill: organizar reuniões de projeto
+Descrição: Organizar reuniões de projeto, como a reunião de lançamento do projeto e a reunião de avaliação dos seus resultados. Planear a ordem de trabalhos da reunião, estabelecer conferências telefónicas, lidar com eventuais necessidades logísticas e preparar a documentação necessária para a reunião. Assegurar a participação da equipa do projeto, do dono da obra e de outras partes interessadas relevantes. Redigir a ata da reunião e enviá-la aos participantes.
+
+Skill: elaborar um relatório financeiro
+Descrição: Concluir a contabilidade de um projeto. Preparar um orçamento efetivo, comparar a discrepância entre o orçamento previsto e o orçamento efetivo e tirar conclusões finais.
+Relacionadas:
+   - normas internacionais de relato financeiro
+
+
+Skill: estimar a duração do trabalho
+Descrição: Efetuar cálculos precisos sobre o tempo necessário para executar futuras tarefas técnicas, com base em informações e observações do passado e do presente ou planear a duração estimada de cada tarefa individual num determinado projeto.
+
+Skill: dar formação aos trabalhadores
+Descrição: Dirigir e orientar os trabalhadores através de um processo de aquisição das competências necessárias ao desempenho das tarefas profissionais de um emprego. Organizar atividades destinadas a apresentar o trabalho e os sistemas ou a melhorar o desempenho de indivíduos e grupos em contextos organizacionais.
+
+Skill: mantar contactos com os gestores
+Descrição: Manter contactos com os gestores de outros departamentos assegurando um serviço e uma comunicação eficazes, isto é, departamentos de vendas, planeamento, compras, comércio, distribuição e técnico.
+
+Skill: redigir a documentação do projeto
+Descrição: Preparar os documentos necessários ao projeto, como cartas do projeto, planos de trabalho, manuais do projeto, relatórios intercalares, prestações concretas e matrizes das partes interessadas.
+
+Skill: seguir as normas da empresa
+Descrição: Liderar e gerir de acordo com o código de conduta da organização.
+
+Skill: gestão ágil de projetos
+Descrição: A abordagem flexível de gestão de projetos é uma metodologia de planeamento, gestão e supervisão dos recursos TIC, a fim de cumprir objetivos específicos e utilizar ferramentas TIC de gestão de projetos.
+
+Skill: gestão de projetos Prince2
+Descrição: A abordagem de gestão PRINCE2 é uma metodologia para o planeamento, gestão e supervisão dos recursos de informáticos, a fim de cumprir objetivos específicos e utilizar ferramentas informáticas de gestão de projetos.
+
+Skill: normas de qualidade
+Descrição: Os requisitos, especificações e orientações nacionais e internacionais para garantir que os produtos, serviços e processos são de boa qualidade e adequados ao fim a que se destinam.
+
+Skill: gestão de projetos lean
+Descrição: A abordagem de gestão de projetos lean é uma metodologia de planeamento, gestão e supervisão de recursos TIC, a fim de cumprir objetivos específicos e de utilizar ferramentas TIC de gestão de projetos.
+
+Skill: gerir relações com partes interessadas
+Descrição: Criar e manter relações internas e externas sólidas com as partes interessadas a nível operacional, com base na confiança mútua e na credibilidade, a fim de alcançar os objetivos organizacionais. Assegurar que as estratégias da organização incorporam uma sólida gestão das partes interessadas e identificam e dão prioridade às relações estratégicas com essas partes.
+
+Skill: gerir orçamentos
+Descrição: Planear, controlar, elaborar relatórios sobre o orçamento e preparar orçamentos de produção definidos.
+Relacionadas:
+   - gestão de custos
+
+
+Skill: personalizar metodologias dos projetos
+Descrição: Adaptar uma metodologia de gestão do projeto predefinida às necessidades específicas, à dimensão e ao tipo de projeto e ajustar a metodologia às necessidades, à cultura, aos processos e às políticas da organização. Ajustar partes específicas da metodologia de modo a refletir as necessidades de gestão, tais como as etapas do processo, o conteúdo de artefactos, a distribuição de responsabilidades entre as várias funções, a definição de limiares de decisão e a tolerância ao risco.
+
+Skill: manter sistemas de comunicação interna
+Descrição: Manter um sistema de comunicação interna eficaz entre os trabalhadores e os diretores de departamento.
+
+Skill: proceder à análise do controlo de qualidade
+Descrição: Realizar inspeções e testes a serviços, processos ou produtos para avaliar a respetiva qualidade.
+Relacionadas:
+   - controlo de qualidade total
+
+   - sistemas de controlo da qualidade
+
+   - controlo da qualidade estatística
+
+
+Skill: gerir alterações de projetos
+Descrição: Gerir as alterações solicitadas ou identificadas ao planeamento inicial do projeto, avaliar a necessidade de as implementar e comunicá-las às diferentes partes interessadas. Atualizar a documentação pertinente do projeto.
+
+Skill: assegurar a disponibilidade de equipamentos
+Descrição: Assegurar a pronta disponibilidade e utilização dos equipamentos necessários antes do início das operações.
+
+Skill: realizar uma análise PESTEL
+Descrição: Analisar os fatores políticos, económicos, sociais, tecnológicos, ambientais e jurídicos para identificar os aspetos externos que influenciam uma organização e podem, por conseguinte, ter impacto nos objetivos, no planeamento ou na execução dos projetos.
+
+Skill: gerir métricas de projetos
+Descrição: Recolher, comunicar, analisar e criar métricas essenciais para um projeto para aferir o seu êxito.
+
+Skill: gerir projetos
+Descrição: Gerir e planear vários recursos, tais como recursos humanos, orçamento, prazo, resultados e qualidade, necessários para um projeto específico e acompanhar o avanço do projeto a fim de alcançar um objetivo específico num prazo e orçamento definidos.
+Relacionadas:
+   - princípios de gestão de projetos
+
+   - gestão de projetos
+
+
+Skill: organizar informação sobre a disponibilidade da equipa
+Descrição: Tomar nota da indisponibilidade e da disponibilidade confirmada de membros das equipas artística e técnica. Registar os condicionalismos.
+
+Skill: gerir o sistema de planeamento de recursos de uma empresa
+Descrição: Recolher, gerir e interpretar os dados relevantes para as empresas relativamente a expedição, pagamento, inventário, recursos e fabrico, utilizando software de gestão empresarial específico. São utilizados softwares como Microsoft Dynamics, SAP ERP, Oracle ERP.
+
+Skill: conservar registos financeiros
+Descrição: Controlar e finalizar todos os documentos formais que representam as transações financeiras de uma empresa ou projeto.
+
+Ocupação: Engenheiro especialista em finalização de projetos/Engenheira especialista em finalização de projetos
+================================================================================================================
+
+Skill: procedimentos de garantia da qualidade
+Descrição: Os procedimentos de inspeção de um produto ou sistema, a fim de garantir a sua conformidade com as especificações e os requisitos.
+
+Skill: engenharia da segurança
+Descrição: Estudo dos riscos associados a projetos e sistemas de engenharia, à prevenção de acidentes e aos benefícios de segurança decorrentes da redução de mortes e ferimentos. A disciplina centra-se na análise e na redução dos potenciais perigos nos processos de engenharia.
+
+Skill: entrada em funcionamento do projeto
+Descrição: Processo de supervisão do correto funcionamento de sistemas, edifícios ou instalações durante as fases finais antes da implementação.
+
+Skill: normas de qualidade
+Descrição: Os requisitos, especificações e orientações nacionais e internacionais para garantir que os produtos, serviços e processos são de boa qualidade e adequados ao fim a que se destinam.
+
+Skill: registar dados de ensaios
+Descrição: Registar os dados que tenham sido identificados especificamente em ensaios anteriores, a fim de verificar se os resultados do ensaio produzem resultados específicos ou rever a reação da pessoa em causa em circunstâncias excecionais ou não habituais.
+
+Skill: identificar problemas operacionais
+Descrição: Identificar problemas de funcionamento, decidir o que fazer e apresentar o respetivo relatório em conformidade.
+
+Skill: proceder à análise do controlo de qualidade
+Descrição: Realizar inspeções e testes a serviços, processos ou produtos para avaliar a respetiva qualidade.
+Relacionadas:
+   - controlo de qualidade total
+
+   - sistemas de controlo da qualidade
+
+   - controlo da qualidade estatística
+
+
+Skill: assegurar a segurança pública
+Descrição: Aplicar os procedimentos e estratégias relevantes e utilizar o equipamento adequado para promover atividades locais ou nacionais de segurança para a proteção de dados, pessoas, instituições e bens.
+
+Skill: interpretar desenhos técnicos
+Descrição: Ler e compreender desenhos técnicos, desenhos de máquinas e de processos.
+Relacionadas:
+   - planos técnicos
+
+
+Skill: utilizar equipamento de ensaio
+Descrição: Utilizar equipamento para testar o desempenho e o funcionamento de máquinas.
+
+Skill: testar o desempenho de centrais elétricas
+Descrição: Analisar o desempenho de centrais elétricas através da operação da central à produção máxima durante um período de tempo predeterminado, para que seja possível estabelecer um desempenho garantido e verificar os requisitos legais de qualidade.
+
+Skill: analisar dados de ensaio
+Descrição: Interpretar e analisar os dados recolhidos durante os ensaios, a fim de formular conclusões, novas perspetivas ou soluções.
+
+Skill: redigir relatórios relacionados com o trabalho
+Descrição: Elaborar relatórios relacionados com o trabalho que sustentem uma gestão eficaz das relações e um elevado nível de documentação e manutenção de registos. Redigir e apresentar resultados e conclusões de forma clara e inteligível, para que sejam compreensíveis para um público não especializado.
+
+Skill: colaborar com engenheiros
+Descrição: Trabalhar em estreita colaboração e comunicar com os engenheiros sobre projetos ou novos produtos.
+
+Skill: estabelecer contactos com os responsáveis pela garantia de qualidade
+Descrição: Trabalhar em estreita colaboração com os responsáves pela garantia ou avaliação de qualidade pertinentes.
+Relacionadas:
+   - metodologias de garantia de qualidade
+
+
+Skill: assegurar o cumprimento dos requisitos legais
+Descrição: Assegurar o cumprimento de todos os requisitos legais.
+Relacionadas:
+   - requisitos legais para operar no setor retalhista automóvel
+
+   - requisitos mecânicos para veículos em zonas urbanas
+
+
+Skill: verificar os parâmetros do sistema contra valores de referência
+Descrição: Assegurar que os fatores mensuráveis que definem o funcionamento de um sistema correspondem às normas predeterminadas.
+
+Skill: utilizar instrumentos de medição
+Descrição: Utilizar diferentes instrumentos de medição, consoante a propriedade a medir. Utilizar vários instrumentos para medir o comprimento, a área, o volume, a velocidade, a energia, a força, entre outros.
+Relacionadas:
+   - equipamentos de instrumentação
+
+   - instrumentos de medição com precisão
+
+
+Skill: apresentar relatórios
+Descrição: Apresentar resultados, estatísticas e conclusões de forma transparente e simples a um público.
+
+Skill: garantir a conformidade com as especificações
+Descrição: Garantir que os produtos montados são conformes com as especificações indicadas.
+
+Skill: operações das centrais geotérmicas
+Descrição: As diferentes etapas na produção de eletricidade a partir de energia geotérmica e o funcionamento de todos os componentes do equipamento necessário, tais como bombas, compressores, permutadores de calor e turbinas.
+
+Skill: métodos de teste de hardware
+Descrição: Os processos nos quais os componentes ou sistemas de hardware são testados, tais como o teste de sistema (ST), o teste de fiabilidade contínua (ORT) e o ensaio em circuito (ICT).
+
+Skill: gestão de projetos
+Descrição: A disciplina que consiste na gestão de projetos, nas atividades que compõem esta área e nas variáveis nela implícitas, como tempo, os recursos, os requisitos, os prazos e a resposta a acontecimentos imprevistos.
+
+Skill: instrumentação de centrais de energia
+Descrição: O equipamento e os instrumentos utilizados para a monitorização e o controlo de processos nas centrais elétricas. Tal exige um bom funcionamento, a calibragem e uma manutenção regular.
+
+Skill: energia nuclear
+Descrição: A produção de energia elétrica através da utilização de reatores nucleares, convertendo a energia libertada dos núcleos de átomos em reatores geradores de calor. Este calor gera posteriormente vapor que pode alimentar uma turbina a vapor para produzir eletricidade.
+
+Skill: operações das centrais elétricas alimentadas a combustíveis fósseis
+Descrição: As diferentes etapas da produção de eletricidade a partir de combustíveis fósseis e a função de todos os componentes do equipamento necessário, como caldeiras, turbinas e geradores.
+
+Skill: procedimentos de ensaio
+Descrição: Métodos de produção de resultados científicos ou de engenharia, tais como ensaios físicos, ensaios químicos ou testes estatísticos.
+
+Skill: testar materiais
+Descrição: Testar a composição, as características e o uso de materiais para criar novos produtos e aplicações. Testá-los em condições normais e extraordinárias.
+Relacionadas:
+   - materiais compósitos
+
+
+Skill: efetuar a manutenção de reatores nucleares
+Descrição: Reparar e efetuar a manutenção de rotina em equipamento que controla as reações nucleares em cadeia para produzir eletricidade, assegurar que o equipamento funciona de forma segura e conforme com a legislação.
+
+Skill: respeitar as medidas de segurança em centrais nucleares
+Descrição: Cumprir os procedimentos, as políticas e a legislação de segurança das centrais nucleares para garantir um ambiente de trabalho seguro para todos os trabalhadores e garantir a segurança do público.
+
+Skill: testar sensores
+Descrição: Testar sensores utilizando equipamento adequado. Recolher e analisar dados. Monitorizar e avaliar o desempenho do sistema e tomar medidas, se necessário.
+Relacionadas:
+   - sensores
+
+   - sensores de fumo
+
+   - sensores magnéticos
+
+   - sensores infravermelhos
+
+
+Skill: monitorizar sistemas em centrais nucleares
+Descrição: Controlar os sistemas de centrais nucleares, como os sistemas de ventilação e de drenagem da água, a fim de assegurar o seu funcionamento adequado e identificar irregularidades.
+
+Skill: gerir projetos
+Descrição: Gerir e planear vários recursos, tais como recursos humanos, orçamento, prazo, resultados e qualidade, necessários para um projeto específico e acompanhar o avanço do projeto a fim de alcançar um objetivo específico num prazo e orçamento definidos.
+Relacionadas:
+   - princípios de gestão de projetos
+
+   - gestão de projetos
+
+
+Ocupação: Gestor de projetos de TIC/Gestora de projetos de TIC
+===============================================================
+
+Skill: política interna de gestão de riscos
+Descrição: As políticas internas de gestão de riscos que identificam, avaliam e dão prioridade aos riscos num ambiente informático. Os métodos utilizados para minimizar, acompanhar e controlar a possibilidade e o impacto de acontecimentos desastrosos que afetam a consecução dos objetivos empresariais.
+
+Skill: normas de qualidade
+Descrição: Os requisitos, especificações e orientações nacionais e internacionais para garantir que os produtos, serviços e processos são de boa qualidade e adequados ao fim a que se destinam.
+
+Skill: gestão de projetos informáticos
+Descrição: As metodologias de planeamento, execução, revisão e acompanhamento de projetos informáticos, tais como o desenvolvimento, a integração, a modificação e a venda de produtos e serviços de TIC, bem como projetos relacionados com a inovação tecnológica no domínio das TIC.
+
+Skill: metodologias de gestão de projetos de informática
+Descrição: As metodologias ou modelos de planeamento, gestão e supervisão dos recursos de TIC, a fim de cumprir objetivos específicos, incluindo as metodologias Waterfall, Incremental, V, Scrum ou Agile e utilizando ferramentas TIC de gestão de projetos.
+Relacionadas:
+   - gestão de projetos informáticos
+
+
+Skill: princípios de mineração das cadeias de blocos
+Descrição: Os tipos e princípios essenciais de mineração de cadeias de blocos e criptomoedas incluem a mineração ASIC, a mineração GPU, a mineração CPU, a mineração em nuvem e os grupos de mineradores.
+
+Skill: formar os empregados
+Descrição: Manter e melhorar o desempenho dos empregados, orientando indivíduos ou grupos relativamente à otimização de métodos, competências ou capacidades específicas, através de estilos e métodos de coaching adaptados. Prestar orientação a trabalhadores recém-recrutados e ajudá-los na aprendizagem dos novos sistemas de negócios.
+
+Skill: gerir conflitos
+Descrição: Assumir responsabilidade sobre todas as reclamações e disputas, demonstrando empatia e compreensão a fim alcançar uma resolução. Estar plenamente ciente de todos os protocolos e procedimentos de Responsabilidade Social e ser capaz de lidar com uma situação de jogo problemática de forma profissional com maturidade e empatia.
+Relacionadas:
+   - gestão de conflitos
+
+
+Skill: efetuar análise de riscos
+Descrição: Identificar e avaliar fatores que possam comprometer o sucesso de um projeto ou ameaçar o funcionamento da organização. Implementar procedimentos para evitar ou minimizar o seu impacto.
+
+Skill: gerir orçamentos
+Descrição: Planear, controlar, elaborar relatórios sobre o orçamento e preparar orçamentos de produção definidos.
+Relacionadas:
+   - gestão de custos
+
+
+Skill: criar especificações de projetos
+Descrição: Definir o plano de trabalho, a duração, os resultados, os recursos e os procedimentos que um projeto deve seguir para atingir os seus objetivos. Descrever os objetivos do projeto, os resultados, as conclusões e os cenários de implementação.
+
+Skill: gerir informação do projeto
+Descrição: Fornecer informações exatas e pertinentes a todas as partes envolvidas num projeto em tempo útil.
+Relacionadas:
+   - princípios de gestão de projetos
+
+
+Skill: definir a estratégia tecnológica
+Descrição: Criar um plano global de objetivos, práticas, princípios e táticas relacionadas com a utilização de tecnologias numa organização e descrever os meios para atingir os objetivos, tendo em conta as análises e a regulamentação aplicável.
+Relacionadas:
+   - estratégia de segurança da informação
+
+   - tecnologias emergentes
+
+   - estratégia de crowdsourcing
+
+   - estratégia de externalização
+
+
+Skill: gerir pessoal
+Descrição: Gerir trabalhadores e subordinados, trabalhando em equipa ou individualmente, para maximizar o seu desempenho e a sua contribuição. Programar o seu trabalho e atividades, dar instruções, motivar e orientar os trabalhadores para a concretização dos objetivos da empresa. Monitorizar e medir a forma como o trabalhador assume as suas responsabilidades e até que ponta essas atividades são bem executadas. Identificar os domínios a melhorar e fazer sugestões para o efeito. Liderar um grupo de pessoas para as ajudar a atingir objetivos e a manter uma relação de trabalho eficaz entre o pessoal.
+Relacionadas:
+   - pessoal administrativo em contexto clínico
+
+
+Skill: gerir projetos de TIC
+Descrição: Planear, organizar, controlar e documentar procedimentos e recursos, como o capital humano, os equipamentos e a perícia, a fim de alcançar metas e objetivos específicos relacionados com sistemas, serviços ou produtos de TIC, dentro de condicionalismos específicos, tais como o âmbito, o tempo, a qualidade e o orçamento.
+Relacionadas:
+   - princípios de gestão de projetos
+
+   - gestão de projetos
+
+   - gestão de projetos informáticos
+
+
+Skill: facultar relatórios de análise de custos-benefícios
+Descrição: Elaborar, compilar e comunicar relatórios com uma análise dos custos discriminados sobre a proposta e os planos orçamentais da empresa. Analisar previamente os custos e benefícios financeiros ou sociais de um projeto ou investimento ao longo de um determinado período.
+
+Skill: recrutar trabalhadores
+Descrição: Contratar novos trabalhadores através da definição das funções do cargo, de publicidade, da realização de entrevistas e da seleção de pessoal, em conformidade com a política e as normas da empresa.
+Relacionadas:
+   - pessoal administrativo em contexto clínico
+
+
+Skill: gerir alterações de projetos
+Descrição: Gerir as alterações solicitadas ou identificadas ao planeamento inicial do projeto, avaliar a necessidade de as implementar e comunicá-las às diferentes partes interessadas. Atualizar a documentação pertinente do projeto.
+
+Skill: analisar planos de negócios
+Descrição: Analisar os planos formais das empresas que definem os seus objetivos empresariais e as estratégias destinadas a alcançá‑los, a fim de avaliar a viabilidade dos planos e verificar a sua capacidade para cumprir as imposições externas, como o reembolso de um empréstimo ou a devolução de investimentos.
+
+Skill: definir o roteiro para a cadeia de blocos nas aplicações
+Descrição: Definir e seguir um roteiro para a introdução de cadeia de blocos numa determinada aplicação. Identificar as principais ações e funções necessárias, bem como as etapas essenciais e os resultados a alcançar.
+
+Skill: desenvolver tecnologias de cadeia de blocos
+Descrição: Desenvolver e integrar a tecnologia de cadeia de blocos em infraestruturas de TIC novas ou existentes e compreender os principais desafios e abordagens para alcançar esta integração.
+
+Skill: identificar requisitos legais
+Descrição: Realizar estudos sobre os procedimentos e normas legais e normativos aplicáveis, analisar e determinar os requisitos legais resultantes aplicáveis à organização, às suas políticas e aos seus produtos.
+Relacionadas:
+   - requisitos legais para operar no setor retalhista automóvel
+
+
+Skill: gerir projetos
+Descrição: Gerir e planear vários recursos, tais como recursos humanos, orçamento, prazo, resultados e qualidade, necessários para um projeto específico e acompanhar o avanço do projeto a fim de alcançar um objetivo específico num prazo e orçamento definidos.
+Relacionadas:
+   - princípios de gestão de projetos
+
+   - gestão de projetos
+
+
+Skill: construir relações comerciais
+Descrição: Estabelecer uma relação positiva e de longo prazo entre organizações e terceiros interessados, tais como fornecedores, distribuidores, acionistas e outras partes interessadas, com vista a informá-los sobre a organização e os seus objetivos.
+
+Skill: estimar a duração do trabalho
+Descrição: Efetuar cálculos precisos sobre o tempo necessário para executar futuras tarefas técnicas, com base em informações e observações do passado e do presente ou planear a duração estimada de cada tarefa individual num determinado projeto.
+
+Skill: dar formação aos trabalhadores
+Descrição: Dirigir e orientar os trabalhadores através de um processo de aquisição das competências necessárias ao desempenho das tarefas profissionais de um emprego. Organizar atividades destinadas a apresentar o trabalho e os sistemas ou a melhorar o desempenho de indivíduos e grupos em contextos organizacionais.
+
+Skill: realizar planeamento de recursos
+Descrição: Estimar as contribuições previstas em termos do tempo e dos recursos humanos e financeiros necessários para atingir os objetivos do projeto.
+
+Skill: desenvolvimento incremental
+Descrição: O modelo de desenvolvimento incremental é uma metodologia para conceber sistemas e aplicações de software.
+
+Skill: ciclo de vida do desenvolvimento de sistemas
+Descrição: A sequência de etapas, tais como o planeamento, a criação, o ensaio e a implementação, e os modelos para o desenvolvimento e a gestão do ciclo de vida de um sistema.
+
+Skill: gestão ágil de projetos
+Descrição: A abordagem flexível de gestão de projetos é uma metodologia de planeamento, gestão e supervisão dos recursos TIC, a fim de cumprir objetivos específicos e utilizar ferramentas TIC de gestão de projetos.
+
+Skill: modelos de arquitetura de software
+Descrição: O conjunto de estruturas e modelos necessários para compreender ou descrever o sistema de software, incluindo os elementos do software, as relações entre eles e as propriedades dos ditos elementos e das suas relações.
+
+Skill: desenvolvimento iterativo
+Descrição: O modelo de desenvolvimento iterativo é uma metodologia para elaborar sistemas e aplicações de software.
+
+Skill: sistemas digitais
+Descrição: Sistemas de armazenamento, tratamento e difusão de informações em formato digital. Trata-se de equipamento informático, <i>software</i> e redes, bem como a forma como podem ser utilizados.
+
+Skill: desenvolvimento em espiral
+Descrição: O modelo de desenvolvimento em espiral é uma metodologia para desenvolver sistemas e aplicações de software.
+
+Skill: modelação orientada por objetos
+Descrição: O paradigma orientado por objetos que se baseia em classes, objetos, métodos e interfaces e a respetiva aplicação no desenvolvimento e análise de software, organização de programação e técnicas.
+
+Skill: modelo de externalização
+Descrição: O modelo de externalização consiste em princípios e princípios fundamentais da modelização orientada a serviços das empresas e dos sistemas informáticos que permitem a conceção e a especificação de sistemas empresariais orientados a serviços no âmbito de uma variedade de estilos arquitetónicos, como arquitetura de empresas.
+
+Skill: modelo híbrido
+Descrição: O modelo híbrido consiste em princípios e bases de modelização orientada a serviços para empresas e sistemas informáticos que permitem a conceção e a especificação de sistemas empresariais orientados a serviços no âmbito de uma variedade de estilos arquitetónicos, tais como arquitetura empresarial.
+
+Skill: estratégia de crowdsourcing
+Descrição: O planeamento de alto nível para a gestão e otimização de processos, ideias ou conteúdos empresariais através da recolha de contributos de uma grande comunidade de pessoas, incluindo grupos em linha.
+
+Skill: desenvolvimento em cascata
+Descrição: O modelo de desenvolvimento em cascata é uma metodologia para conceber sistemas e aplicações de software.
+
+Skill: estratégia de externalização
+Descrição: O planeamento de alto nível para a gestão e otimização de serviços externos de prestadores para a execução de processos empresariais.
+
+Skill: modelação orientada a serviços
+Descrição: Princípios e noções fundamentais da modelização orientada a serviços para empresas e sistemas informáticos que permitem a conceção e especificação de sistemas empresariais orientados a serviços numa variedade de estilos arquitetónicos, como a arquitetura de empresas e a arquitetura de aplicações.
+
+Skill: metodologias de conceção de software
+Descrição: As metodologias como Scrum, V-model e Waterfall são concebidas para conceber sistemas e aplicações de software.
+
+Skill: desenvolvimento rápido de aplicações
+Descrição: O modelo de desenvolvimento rápido de aplicações é uma metodologia para conceber sistemas e aplicações de software.
+
+Skill: requisitos legais dos produtos informáticos
+Descrição: A regulamentação internacional relacionada com o desenvolvimento e a utilização de produtos informáticos.
+
+Skill: modelo open source
+Descrição: O modelo open source (ou de fonte aberta) consiste em princípios e elementos fundamentais da modelação orientada para os serviços das empresas e dos sistemas informáticos, que permitem a conceção e a especificação de sistemas empresariais orientados para os serviços no âmbito de uma variedade de estilos arquitetónicos, como a arquitetura empresarial.
+
+Skill: metodologias de garantia de qualidade
+Descrição: Princípios de garantia da qualidade, requisitos normalizados e o conjunto de processos e atividades utilizados para medir, controlar e assegurar a qualidade dos produtos e processos.
+
+Skill: requisitos do utilizador dos sistemas informáticos
+Descrição: O processo destinado a adequar as necessidades dos utilizadores e das organizações aos componentes e serviços do sistema, tendo em conta as tecnologias disponíveis e as técnicas necessárias para obter e especificar requisitos, interrogar os utilizadores a fim de estabelecer os sintomas do problema e analisar os sintomas.
+
+Skill: gestão da configuração do projeto
+Descrição: O processo de gestão eficaz dos principais artefactos e prestações concretas do projeto, assegurando que as versões corretas são entregues ao requerente do projeto e permitindo que os gestores do projeto identifiquem o estado mais recente dos artefactos do projeto e possam recolher todas as fontes, documentos e outras informações para o projeto, impedir alterações não autorizadas, garantir a rastreabilidade dos artefactos e voltar às versões anteriores. Inclui a identificação dos elementos de configuração do projeto, os seus atributos e códigos de estado, o estabelecimento de linhas de base, a definição das funções e das responsabilidades pelas alterações autorizadas aos elementos de configuração, bem como a manutenção e o controlo de um repositório de projetos.
+
+Skill: gestão de processos
+Descrição: A abordagem da gestão de processos é uma metodologia de planeamento, gestão e supervisão de recursos de TIC, a fim de cumprir objetivos específicos e utilizar ferramentas de TIC para gestão de projetos.
+
+Skill: gestão de projetos lean
+Descrição: A abordagem de gestão de projetos lean é uma metodologia de planeamento, gestão e supervisão de recursos TIC, a fim de cumprir objetivos específicos e de utilizar ferramentas TIC de gestão de projetos.
+
+Skill: desenvolvimento ágil
+Descrição: O modelo de desenvolvimento ágil é uma metodologia para a conceção de sistemas e aplicações de software.
+
+Skill: gestão de documentos informáticos
+Descrição: A metodologia de acompanhamento, gestão e armazenamento dos documentos de forma sistemática e organizada, bem como a manutenção de um registo das versões criadas e alteradas por utilizadores específicos (acompanhamento do histórico).
+
+Skill: desenvolvimento de protótipos
+Descrição: O modelo de desenvolvimento de protótipos é uma metodologia para conceber sistemas e aplicações de software.
+
+Skill: estratégia de internalização
+Descrição: O planeamento de alto nível para a gestão e otimização dos processos empresariais a nível interno, geralmente para manter o controlo de aspetos críticos do trabalho.
+
+Skill: DevOps
+Descrição: A abordagem de desenvolvimento DevOps é uma metodologia para a conceção de sistemas e aplicações de software centrados na colaboração entre programadores de software e outros profissionais das TIC e na automatização.
+
+Skill: modelos de qualidade de processamento de TIC
+Descrição: Os modelos de qualidade para serviços de TIC que abordam a maturidade dos processos, a adoção de práticas recomendadas e a sua definição e institucionalização, que permitem que a organização produza os resultados necessários de forma confiável e sustentável. Inclui modelos em muitas áreas de TIC.
+
+Skill: criar soluções para problemas
+Descrição: Resolver problemas que surgem no planeamento, priorização, organização, direcionamento/facilitação da ação e na avaliação do desempenho. Usar processos sistemáticos de recolha, análise e síntese de informações para avaliar a prática atual e gerar novos entendimentos sobre a prática.
+
+Skill: desenvolver normas de informação
+Descrição: Desenvolver normas ou requisitos que estabeleçam critérios técnicos, métodos, processos e práticas uniformes na gestão da informação baseada na experiência profissional.
+
+Skill: realizar atividades de projeto
+Descrição: Realizar as atividades do projeto com base no plano de trabalho e no calendário estabelecido. Ajudar no desenvolvimento e na execução dos planos do projeto.
+Relacionadas:
+   - gestão de projetos
+
+
+Skill: gerir a mudança organizacional
+Descrição: Gerir o desenvolvimento no seio de uma organização, antecipando mudanças e tomando decisões administrativas, a fim de assegurar a menor perturbação possível dos membros intervenientes.
+
+Skill: manter relações com os fornecedores
+Descrição: Desenvolver uma relação duradoura e importante com os fornecedores e os prestadores de serviços, a fim de estabelecer uma colaboração, cooperação e negociação de contratos positiva, proveitosa e duradoura.
+Relacionadas:
+   - gestão de fornecedores
+
+
+Skill: utilizar sistemas de resolução de problemas informáticos
+Descrição: Utilizar um sistema especializado para acompanhar o registo, tratamento e resolução de problemas numa organização, atribuindo a cada um deles um «ticket» de apoio técnico, registando dados das pessoas envolvidas, acompanhando as alterações e apresentando o estado do «ticket» até à sua conclusão.
+
+Skill: executar gestão de riscos de TIC
+Descrição: Desenvolver e aplicar procedimentos para identificação, avaliação, tratamento e mitigação dos riscos de TIC, tais como ataques informáticos ou fugas de dados, de acordo com a estratégia, os procedimentos e as políticas da empresa em matéria de riscos. Analisar e gerir os riscos e incidentes de segurança. Recomendar medidas com vista a melhorar a estratégia de segurança digital.
+Relacionadas:
+   - estratégia de segurança da informação
+
+   - normas de segurança informática
+
+   - riscos de segurança de redes informáticas
+
+   - gestão de riscos
+
+
+Skill: gerir um repositório central de projetos
+Descrição: Armazenar os ficheiros e documentos do projeto num repositório central acessível ao gestor do projeto e a todas as equipas envolvidas. Utilizar ferramentas em linha e software específico disponíveis.
+
+Skill: executar auditorias informáticas
+Descrição: Organizar e executar auditorias a fim de avaliar sistemas TIC, bem como a conformidade dos componentes dos sistemas, os sistemas de tratamento da informação e a segurança da informação. Identificar e reunir potenciais questões críticas e recomendar soluções com base nas normas e soluções exigidas.
+Relacionadas:
+   - técnicas de auditoria
+
+
+Skill: executar processos de contratação pública
+Descrição: Efetuar a encomenda de serviços, equipamentos, produtos ou ingredientes, comparar custos e verificar a qualidade, a fim de assegurar a máxima rentabilização para a organização.
+
+Skill: gerir localização
+Descrição: Alterar o conteúdo ou um produto para se adaptar a um outro local através do recurso a prestadores de serviços de tradução ou localização de conteúdos.
+
+Skill: utilizar tecnologias de contratação pública eletrónica
+Descrição: Utilizar tecnologias, aplicações e ferramentas de contratação pública eletrónica para reduzir os encargos administrativos, melhorar a eficiência e reforçar a transparência e a responsabilização nos procedimentos de contratação pública.
+Relacionadas:
+   - aprovisionamento eletrónico
+
+
+Skill: organizar reuniões de projeto
+Descrição: Organizar reuniões de projeto, como a reunião de lançamento do projeto e a reunião de avaliação dos seus resultados. Planear a ordem de trabalhos da reunião, estabelecer conferências telefónicas, lidar com eventuais necessidades logísticas e preparar a documentação necessária para a reunião. Assegurar a participação da equipa do projeto, do dono da obra e de outras partes interessadas relevantes. Redigir a ata da reunião e enviá-la aos participantes.
+
+Skill: aplicar técnicas organizacionais
+Descrição: Utilizar um conjunto de técnicas e procedimentos organizacionais que facilitam a realização dos objetivos definidos, tais como planeamento pormenorizado dos horários do pessoal. Utilizar estes recursos de forma eficiente e sustentável e demonstrar flexibilidade quando necessário.
+
+Skill: definir requisitos técnicos
+Descrição: Especificar as propriedades técnicas de bens, materiais, métodos, processos, serviços, sistemas, programas informáticos e funcionalidades, identificando e respondendo às necessidades específicas que devem ser satisfeitas de acordo com as exigências do cliente.
+Relacionadas:
+   - biomecânica da performance desportiva
+
+
+Skill: redigir a documentação do projeto
+Descrição: Preparar os documentos necessários ao projeto, como cartas do projeto, planos de trabalho, manuais do projeto, relatórios intercalares, prestações concretas e matrizes das partes interessadas.
+
+Ocupação: Assistente de projetos
+=================================
+
+Skill: matemática
+Descrição: A matemática é o estudo de tópicos tais como a quantidade, a estrutura, o espaço e a mudança. Envolve a identificação de padrões e a formulação de novas conjeturas com base nos mesmos. Os matemáticos esforçam-se para provar a verdade ou falsidade dessas conjeturas. Existem muitos campos da matemática, alguns dos quais são amplamente utilizados para aplicações práticas.
+
+Skill: preencher documentos
+Descrição: Criar um sistema de arquivo. Elaborar um catálogo de documentos. Etiquetar documentos, etc.
+
+Skill: processar correspondência
+Descrição: Processar correspondência tendo em consideração as questões relacionadas com a proteção de dados, os requisitos de saúde e segurança e as especificações dos diferentes tipos de correspondência.
+
+Skill: realizar atividades rotineiras de escritório
+Descrição: Programar, preparar e realizar atividades necessárias no dia a dia em escritórios, como o tratamento de correspondência, a receção de materiais, a atualização de gestores e trabalhadores e a manutenção normal das operações.
+
+Skill: analisar princípios de engenharia
+Descrição: Analisar os princípios que devem ser considerados para desenhos e projetos de engenharia, como a funcionalidade, a replicabilidade, os custos e outros princípios.
+Relacionadas:
+   - princípios de engenharia
+
+
+Skill: colaborar com engenheiros
+Descrição: Trabalhar em estreita colaboração e comunicar com os engenheiros sobre projetos ou novos produtos.
+
+Skill: desempenhar funções administrativas
+Descrição: Desempenhar funções administrativas, tais como arquivo, datilografia de relatórios e gestão da correspondência.
+
+Skill: assegurar a articulação com engenheiros
+Descrição: Colaborar com engenheiros para assegurar um entendimento comum e debater a conceção, o desenvolvimento e a melhoria dos produtos.
+Relacionadas:
+   - engenharia de minas
+
+
+Skill: assistir na investigação científica
+Descrição: Ajudar os engenheiros ou cientistas a realizar experiências, realizar análises, desenvolver novos produtos ou processos, construir a teoria e controlar a qualidade.
+
+Skill: princípios de engenharia
+Descrição: Os elementos da engenharia como a funcionalidade, replicabilidade e a relação entre os custos e o design e a forma como estes são aplicados na conclusão de projetos de engenharia.
+
+Skill: desenhos técnicos
+Descrição: O software de desenho e os vários símbolos, perspetivas, unidades de medida, sistemas de notação, estilos visuais e esquemas de página usados em desenhos técnicos.
+
+Skill: gestão de projetos
+Descrição: A disciplina que consiste na gestão de projetos, nas atividades que compõem esta área e nas variáveis nela implícitas, como tempo, os recursos, os requisitos, os prazos e a resposta a acontecimentos imprevistos.
+
+Skill: processos de engenharia
+Descrição: A abordagem sistemática ao desenvolvimento e manutenção dos sistemas de engenharia.
+
+Skill: planear atividades de engenharia
+Descrição: Organizar atividades de engenharia antes de as iniciar.
+Relacionadas:
+   - processos de transformação da madeira
+
+
+Skill: efetuar análise de dados
+Descrição: Recolher dados e estatísticas para testar e avaliar, a fim de gerar afirmações e previsões de padrões, com o objetivo de descobrir informações úteis num processo de tomada de decisão.
+Relacionadas:
+   - software de análise estatística
+
+   - métodos de análise do desempenho das TIC
+
+
+Skill: aplicar técnicas de análise estatística
+Descrição: Utilizar modelos (estatísticas descritivas ou inferenciais) e técnicas (prospeção de dados ou aprendizagem automática) para análises estatísticas, bem como ferramentas informáticas para análise de dados, deteção de correlações e previsão de tendências.
+Relacionadas:
+   - algoritmização de tarefas
+
+   - estatística
+
+   - software de análise estatística
+
+   - métodos de análise do desempenho das TIC
+
+
+Skill: recrutar trabalhadores
+Descrição: Contratar novos trabalhadores através da definição das funções do cargo, de publicidade, da realização de entrevistas e da seleção de pessoal, em conformidade com a política e as normas da empresa.
+Relacionadas:
+   - pessoal administrativo em contexto clínico
+
+
+Skill: elaborar planos técnicos
+Descrição: Criar planos técnicos detalhados de máquinas, equipamentos, ferramentas e outros produtos.
+
+Skill: rever texto
+Descrição: Ler meticulosamente um texto, procurar, rever e corrigir erros para assegurar a validação dos conteúdos para fins de publicação.
+
+Skill: consultar com os profissionais do setor
+Descrição: Comunicar com engenheiros, designers, topógrafos e representantes envolvidos em projetos de levantamento topográfico.
+Relacionadas:
+   - levantamento topográfico
+
+
+Skill: recolher dados experimentais
+Descrição: Recolher dados resultantes da aplicação de métodos científicos, tais como métodos de ensaio, conceção ou medições experimentais.
+
+Skill: organizar reuniões
+Descrição: Organizar e marcar reuniões profissionais ou outras para clientes ou superiores hierárquicos.
+
+Skill: redigir relatórios científicos
+Descrição: Redigir relatórios que descrevam os resultados e os processos de investigação científica ou técnica ou avaliem os seus progressos. Estes relatórios ajudam os investigadores a manter-se a par das descobertas mais recentes.
+Relacionadas:
+   - tipos de documentação
+
+
+Skill: realizar testes de desempenho
+Descrição: Realizar testes experimentais, ambientais e operacionais em modelos, protótipos ou nos sistemas e equipamentos propriamente ditos, a fim de testar a sua resistência e as suas capacidades em condições normais e extremas.
+
+Skill: realizar apresentação visual de dados
+Descrição: Criar representações visuais de dados, tais como gráficos ou diagramas, para facilitar a compreensão.
+Relacionadas:
+   - técnicas de apresentação visual
+
+
+Skill: assegurar a manutenção dos equipamentos
+Descrição: Assegurar que o equipamento necessário para as operações seja regularmente controlado para detetar eventuais avarias, que as tarefas de manutenção de rotina sejam executadas e que sejam programadas e executadas reparações em caso de danos ou falhas.
+
+Skill: redigir manuais
+Descrição: Redigir instruções sobre a utilização correta e segura dos equipamentos, das máquinas e dos sistemas.
+
+Skill: estabelecer contactos com profissionais da indústria
+Descrição: Estabelecer relações com engenheiros e outros profissionais do setor.
+
+Ocupação: gestor de projeto/gestora de projeto
+===============================================
+
+Skill: política interna de gestão de riscos
+Descrição: As políticas internas de gestão de riscos que identificam, avaliam e dão prioridade aos riscos num ambiente informático. Os métodos utilizados para minimizar, acompanhar e controlar a possibilidade e o impacto de acontecimentos desastrosos que afetam a consecução dos objetivos empresariais.
+
+Skill: princípios de gestão de projetos
+Descrição: Diferentes elementos e fases da gestão de projetos.
+
+Skill: gestão de projetos
+Descrição: A disciplina que consiste na gestão de projetos, nas atividades que compõem esta área e nas variáveis nela implícitas, como tempo, os recursos, os requisitos, os prazos e a resposta a acontecimentos imprevistos.
+
+Skill: metodologia de gestão do projeto (PM²)
+Descrição: Uma metodologia aberta de gestão de projetos desenvolvida e aprovada pela Comissão Europeia e utilizada pela maioria das instituições europeias, bem como por organizações e instituições públicas e privadas nos Estados-Membros da UE, que visa permitir que os gestores de projetos proporcionem soluções e benefícios às suas organizações através da gestão eficaz do trabalho de projeto. A PM² integra elementos de uma vasta gama de boas práticas de gestão de projetos aceites a nível mundial, descritas em normas e metodologias, bem como experiência operacional, principalmente das instituições europeias.
+Relacionadas:
+   - princípios de gestão de projetos
+
+
+Skill: princípios de comunicação
+Descrição: O conjunto de princípios comuns compartilhados em relação à comunicação, como a escuta ativa, estabelecer afinidade, ajustar o registo e respeitar a intervenção de outros.
+
+Skill: gerir os fornecimentos
+Descrição: Monitorizar e controlar o fluxo de produtos que inclui a compra, armazenamento e movimento da qualidade necessária das matérias-primas e também o inventário de trabalhos em curso. Gerir as atividades da cadeia de fornecimento e sincronizar a oferta e a procura da produção e do cliente.
+Relacionadas:
+   - gestão da cadeia de abastecimento
+
+
+Skill: gerir conflitos
+Descrição: Assumir responsabilidade sobre todas as reclamações e disputas, demonstrando empatia e compreensão a fim alcançar uma resolução. Estar plenamente ciente de todos os protocolos e procedimentos de Responsabilidade Social e ser capaz de lidar com uma situação de jogo problemática de forma profissional com maturidade e empatia.
+Relacionadas:
+   - gestão de conflitos
+
+
+Skill: assegurar a conformidade com os requisitos legais
+Descrição: Assegurar a conformidade com as normas e requisitos legais estabelecidos e aplicáveis, tais como as especificações, as políticas, as normas ou a legislação, tendo em vista os objetivos que as organizações aspiram atingir nos seus esforços.
+
+Skill: efetuar análise de riscos
+Descrição: Identificar e avaliar fatores que possam comprometer o sucesso de um projeto ou ameaçar o funcionamento da organização. Implementar procedimentos para evitar ou minimizar o seu impacto.
+
+Skill: gerir orçamentos
+Descrição: Planear, controlar, elaborar relatórios sobre o orçamento e preparar orçamentos de produção definidos.
+Relacionadas:
+   - gestão de custos
+
+
+Skill: criar especificações de projetos
+Descrição: Definir o plano de trabalho, a duração, os resultados, os recursos e os procedimentos que um projeto deve seguir para atingir os seus objetivos. Descrever os objetivos do projeto, os resultados, as conclusões e os cenários de implementação.
+
+Skill: gerir informação do projeto
+Descrição: Fornecer informações exatas e pertinentes a todas as partes envolvidas num projeto em tempo útil.
+Relacionadas:
+   - princípios de gestão de projetos
+
+
+Skill: personalizar metodologias dos projetos
+Descrição: Adaptar uma metodologia de gestão do projeto predefinida às necessidades específicas, à dimensão e ao tipo de projeto e ajustar a metodologia às necessidades, à cultura, aos processos e às políticas da organização. Ajustar partes específicas da metodologia de modo a refletir as necessidades de gestão, tais como as etapas do processo, o conteúdo de artefactos, a distribuição de responsabilidades entre as várias funções, a definição de limiares de decisão e a tolerância ao risco.
+
+Skill: gerir pessoal
+Descrição: Gerir trabalhadores e subordinados, trabalhando em equipa ou individualmente, para maximizar o seu desempenho e a sua contribuição. Programar o seu trabalho e atividades, dar instruções, motivar e orientar os trabalhadores para a concretização dos objetivos da empresa. Monitorizar e medir a forma como o trabalhador assume as suas responsabilidades e até que ponta essas atividades são bem executadas. Identificar os domínios a melhorar e fazer sugestões para o efeito. Liderar um grupo de pessoas para as ajudar a atingir objetivos e a manter uma relação de trabalho eficaz entre o pessoal.
+Relacionadas:
+   - pessoal administrativo em contexto clínico
+
+
+Skill: facultar relatórios de análise de custos-benefícios
+Descrição: Elaborar, compilar e comunicar relatórios com uma análise dos custos discriminados sobre a proposta e os planos orçamentais da empresa. Analisar previamente os custos e benefícios financeiros ou sociais de um projeto ou investimento ao longo de um determinado período.
+
+Skill: gerir alterações de projetos
+Descrição: Gerir as alterações solicitadas ou identificadas ao planeamento inicial do projeto, avaliar a necessidade de as implementar e comunicá-las às diferentes partes interessadas. Atualizar a documentação pertinente do projeto.
+
+Skill: estabelecer prioridades diárias
+Descrição: Estabelecer prioridades diárias para o pessoal; tratar com eficácia a carga de trabalhos em multitarefa.
+
+Skill: assegurar a disponibilidade de equipamentos
+Descrição: Assegurar a pronta disponibilidade e utilização dos equipamentos necessários antes do início das operações.
+
+Skill: negociar com as partes interessadas
+Descrição: Negociar compromissos com as partes interessadas e procurar alcançar os acordos mais vantajosos para a empresa. Isso pode envolver o estabelecimento de relações com fornecedores e clientes, bem como assegurar a rentabilidade dos produtos.
+
+Skill: supervisionar operações de informação diárias
+Descrição: Dirigir operações diárias de unidades diferentes. Coordenar atividades de programação/projetos a fim de assegurar o cumprimento dos custos e dos prazos.
+
+Skill: redigir relatórios relacionados com o trabalho
+Descrição: Elaborar relatórios relacionados com o trabalho que sustentem uma gestão eficaz das relações e um elevado nível de documentação e manutenção de registos. Redigir e apresentar resultados e conclusões de forma clara e inteligível, para que sejam compreensíveis para um público não especializado.
+
+Skill: gerir a logística
+Descrição: Criar um quadro logístico para o transporte de mercadorias destinadas aos clientes e para a receção de devoluções, executar e acompanhar os processos e as orientações logísticas. Adaptar os processos de produção às contingências e condicionalismos do meio.
+Relacionadas:
+   - logística dos transportes multimodais
+
+   - logística ecológica
+
+   - logística
+
+
+Skill: realizar uma análise PESTEL
+Descrição: Analisar os fatores políticos, económicos, sociais, tecnológicos, ambientais e jurídicos para identificar os aspetos externos que influenciam uma organização e podem, por conseguinte, ter impacto nos objetivos, no planeamento ou na execução dos projetos.
+
+Skill: identificar requisitos legais
+Descrição: Realizar estudos sobre os procedimentos e normas legais e normativos aplicáveis, analisar e determinar os requisitos legais resultantes aplicáveis à organização, às suas políticas e aos seus produtos.
+Relacionadas:
+   - requisitos legais para operar no setor retalhista automóvel
+
+
+Skill: organizar reuniões de projeto
+Descrição: Organizar reuniões de projeto, como a reunião de lançamento do projeto e a reunião de avaliação dos seus resultados. Planear a ordem de trabalhos da reunião, estabelecer conferências telefónicas, lidar com eventuais necessidades logísticas e preparar a documentação necessária para a reunião. Assegurar a participação da equipa do projeto, do dono da obra e de outras partes interessadas relevantes. Redigir a ata da reunião e enviá-la aos participantes.
+
+Skill: gerir métricas de projetos
+Descrição: Recolher, comunicar, analisar e criar métricas essenciais para um projeto para aferir o seu êxito.
+
+Skill: assegurar a manutenção dos equipamentos
+Descrição: Assegurar que o equipamento necessário para as operações seja regularmente controlado para detetar eventuais avarias, que as tarefas de manutenção de rotina sejam executadas e que sejam programadas e executadas reparações em caso de danos ou falhas.
+
+Skill: gerir projetos
+Descrição: Gerir e planear vários recursos, tais como recursos humanos, orçamento, prazo, resultados e qualidade, necessários para um projeto específico e acompanhar o avanço do projeto a fim de alcançar um objetivo específico num prazo e orçamento definidos.
+Relacionadas:
+   - princípios de gestão de projetos
+
+   - gestão de projetos
+
+
+Skill: construir relações comerciais
+Descrição: Estabelecer uma relação positiva e de longo prazo entre organizações e terceiros interessados, tais como fornecedores, distribuidores, acionistas e outras partes interessadas, com vista a informá-los sobre a organização e os seus objetivos.
+
+Skill: controlar despesas
+Descrição: Monitorizar e manter controlos de custos eficazes no que diz respeito a melhorias de eficiência, desperdícios, horas extraordinárias e afetação de pessoal. Avaliar os excessos e envidar esforços para melhorar a eficiência e a produtividade.
+Relacionadas:
+   - gestão de custos
+
+   - conservar registos de despesas
+
+
+Skill: estimar a duração do trabalho
+Descrição: Efetuar cálculos precisos sobre o tempo necessário para executar futuras tarefas técnicas, com base em informações e observações do passado e do presente ou planear a duração estimada de cada tarefa individual num determinado projeto.
+
+Skill: dar formação aos trabalhadores
+Descrição: Dirigir e orientar os trabalhadores através de um processo de aquisição das competências necessárias ao desempenho das tarefas profissionais de um emprego. Organizar atividades destinadas a apresentar o trabalho e os sistemas ou a melhorar o desempenho de indivíduos e grupos em contextos organizacionais.
+
+Skill: mantar contactos com os gestores
+Descrição: Manter contactos com os gestores de outros departamentos assegurando um serviço e uma comunicação eficazes, isto é, departamentos de vendas, planeamento, compras, comércio, distribuição e técnico.
+
+Skill: redigir a documentação do projeto
+Descrição: Preparar os documentos necessários ao projeto, como cartas do projeto, planos de trabalho, manuais do projeto, relatórios intercalares, prestações concretas e matrizes das partes interessadas.
+
+Skill: realizar planeamento de recursos
+Descrição: Estimar as contribuições previstas em termos do tempo e dos recursos humanos e financeiros necessários para atingir os objetivos do projeto.
+
+Skill: seguir as normas da empresa
+Descrição: Liderar e gerir de acordo com o código de conduta da organização.
+
+Skill: gestão de programas
+Descrição: Gestão de programas que são mapeados de acordo com os objetivos empresariais para melhorar o desempenho organizacional. Implica a supervisão de um grupo de projetos ligados entre si por uma área de impacto comum.
+
+Skill: estudos jurídicos
+Descrição: O estudo do Direito; as situações e causas que suscitam a resposta das instituições sob a forma de leis e regulamentos. Alguns domínios do Direito são o direito civil, comercial, penal e patrimonial.
+
+Skill: gestão ágil de projetos
+Descrição: A abordagem flexível de gestão de projetos é uma metodologia de planeamento, gestão e supervisão dos recursos TIC, a fim de cumprir objetivos específicos e utilizar ferramentas TIC de gestão de projetos.
+
+Skill: matemática
+Descrição: A matemática é o estudo de tópicos tais como a quantidade, a estrutura, o espaço e a mudança. Envolve a identificação de padrões e a formulação de novas conjeturas com base nos mesmos. Os matemáticos esforçam-se para provar a verdade ou falsidade dessas conjeturas. Existem muitos campos da matemática, alguns dos quais são amplamente utilizados para aplicações práticas.
+
+Skill: responsabilidade social das empresas
+Descrição: O tratamento ou a gestão de processos empresariais de uma forma responsável e ética, considerando a responsabilidade económica perante os acionistas tão importante como a responsabilidade para com os intervenientes ambientais e sociais.
+
+Skill: estratégia de crowdsourcing
+Descrição: O planeamento de alto nível para a gestão e otimização de processos, ideias ou conteúdos empresariais através da recolha de contributos de uma grande comunidade de pessoas, incluindo grupos em linha.
+
+Skill: serviços de administração
+Descrição: Os trâmites administrativos relacionados com as áreas administrativas de um ambiente de escritório. As atividades ou processos podem incluir o planeamento financeiro, a conservação de registos, a faturação e a gestão da logística geral de uma organização.
+
+Skill: estratégia de externalização
+Descrição: O planeamento de alto nível para a gestão e otimização de serviços externos de prestadores para a execução de processos empresariais.
+
+Skill: gestão de projetos Prince2
+Descrição: A abordagem de gestão PRINCE2 é uma metodologia para o planeamento, gestão e supervisão dos recursos de informáticos, a fim de cumprir objetivos específicos e utilizar ferramentas informáticas de gestão de projetos.
+
+Skill: estatística
+Descrição: Estudo da teoria estatística, métodos e práticas como a recolha, a organização, a análise, a interpretação e a apresentação de dados. Trata de todos os aspetos dos dados, incluindo o planeamento da recolha de dados em termos de conceção de inquéritos e experiências, a fim de prever e planear atividades relacionadas com o trabalho.
+
+Skill: identificação de riscos
+Descrição: Os diferentes tipos de risco e os respetivos critérios de classificação, tais como a sua natureza e âmbito, a atividade a que se referem, as suas causas e consequências e o seu financiamento.
+
+Skill: controlo de qualidade total
+Descrição: A filosofia de controlo da qualidade que visa a que cada parte seja de qualidade superior, sem qualquer tolerância para materiais ou métodos de qualidade inferior. A procura de um trabalho de alto nível de qualidade sem concessões.
+
+Skill: atividade de medidor-orçamentista
+Descrição: Processo de estimativa, planeamento e monitorização dos custos de construção de edifícios no âmbito de grandes projetos de construção. Implica a utilização eficiente e eficaz de recursos e inclui aspetos da análise de risco, bem como a avaliação das propostas e contratos públicos.
+
+Skill: processos empresariais
+Descrição: Processos que uma organização aplica para melhorar a eficiência, definir novos objetivos e alcançar metas de forma rentável e atempada.
+
+Skill: metodologias de garantia de qualidade
+Descrição: Princípios de garantia da qualidade, requisitos normalizados e o conjunto de processos e atividades utilizados para medir, controlar e assegurar a qualidade dos produtos e processos.
+
+Skill: gestão da configuração do projeto
+Descrição: O processo de gestão eficaz dos principais artefactos e prestações concretas do projeto, assegurando que as versões corretas são entregues ao requerente do projeto e permitindo que os gestores do projeto identifiquem o estado mais recente dos artefactos do projeto e possam recolher todas as fontes, documentos e outras informações para o projeto, impedir alterações não autorizadas, garantir a rastreabilidade dos artefactos e voltar às versões anteriores. Inclui a identificação dos elementos de configuração do projeto, os seus atributos e códigos de estado, o estabelecimento de linhas de base, a definição das funções e das responsabilidades pelas alterações autorizadas aos elementos de configuração, bem como a manutenção e o controlo de um repositório de projetos.
+
+Skill: gestão de projetos lean
+Descrição: A abordagem de gestão de projetos lean é uma metodologia de planeamento, gestão e supervisão de recursos TIC, a fim de cumprir objetivos específicos e de utilizar ferramentas TIC de gestão de projetos.
+
+Skill: estratégia de internalização
+Descrição: O planeamento de alto nível para a gestão e otimização dos processos empresariais a nível interno, geralmente para manter o controlo de aspetos críticos do trabalho.
+
+Skill: almejar o crescimento da empresa
+Descrição: Desenvolver estratégias e planos que visam conseguir um crescimento sustentado da empresa, quer se trate de uma empresa própria ou de terceiros. Empenhar-se em agir de modo a aumentar receitas e conseguir fluxos de caixa positivos.
+
+Skill: gerir a mudança organizacional
+Descrição: Gerir o desenvolvimento no seio de uma organização, antecipando mudanças e tomando decisões administrativas, a fim de assegurar a menor perturbação possível dos membros intervenientes.
+
+Skill: manter relações com os fornecedores
+Descrição: Desenvolver uma relação duradoura e importante com os fornecedores e os prestadores de serviços, a fim de estabelecer uma colaboração, cooperação e negociação de contratos positiva, proveitosa e duradoura.
+Relacionadas:
+   - gestão de fornecedores
+
+
+Skill: conceber sistemas de encravamento de sinalização lateral
+Descrição: Conceber procedimentos para a implementação de sistemas de encravamento de sinalização lateral. Analisar os itinerários e os mapas de aspetos e ter em conta os sistemas de aviso de passagem de nível.
+
+Skill: recrutar trabalhadores
+Descrição: Contratar novos trabalhadores através da definição das funções do cargo, de publicidade, da realização de entrevistas e da seleção de pessoal, em conformidade com a política e as normas da empresa.
+Relacionadas:
+   - pessoal administrativo em contexto clínico
+
+
+Skill: analisar planos de negócios
+Descrição: Analisar os planos formais das empresas que definem os seus objetivos empresariais e as estratégias destinadas a alcançá‑los, a fim de avaliar a viabilidade dos planos e verificar a sua capacidade para cumprir as imposições externas, como o reembolso de um empréstimo ou a devolução de investimentos.
+
+Skill: gerir um repositório central de projetos
+Descrição: Armazenar os ficheiros e documentos do projeto num repositório central acessível ao gestor do projeto e a todas as equipas envolvidas. Utilizar ferramentas em linha e software específico disponíveis.
+
+Skill: utilizar técnicas de comunicação
+Descrição: Aplicar técnicas de comunicação que permitam aos interlocutores uma melhor compreensão mútua e uma comunicação precisa na transmissão das mensagens.
+
+Skill: encontrar um substituto para o diretor de cena
+Descrição: Assumir as tarefas do diretor de cena, conforme necessário. Indicar os principais momentos de espera. Informar sobre o momento em que se abre a sala de espetáculos. Confirmar que os artistas estão prontos. Indicar o início da atuação. Indicar as entradas e saídas dos elementos cénicos, quando necessário.
+
+Skill: planear horários
+Descrição: Elaborar horários, incluindo procedimentos, marcações e horas de trabalho.
+
+Skill: gerir vários projetos
+Descrição: Supervisionar e orientar o desenvolvimento de vários projetos que funcionam de forma independente. Assegurar a coerência e a mobilização de forças entre os projetos, a fim de assegurar um êxito e uma rendibilidade globais.
+Relacionadas:
+   - princípios de gestão de projetos
+
+   - gestão de projetos
+
+
+Skill: elaborar um relatório financeiro
+Descrição: Concluir a contabilidade de um projeto. Preparar um orçamento efetivo, comparar a discrepância entre o orçamento previsto e o orçamento efetivo e tirar conclusões finais.
+Relacionadas:
+   - normas internacionais de relato financeiro
+
+
+Skill: desenvolver planos de negócios
+Descrição: Planear, redigir e colaborar na execução de planos de negócios. Incluir e prever no plano de negócios a estratégia de mercado, a análise da concorrência da empresa, a conceção e o desenvolvimento do plano, as operações e os aspetos de gestão e as previsões financeiras do plano de negócios.
+
+Skill: gerir o sistema de planeamento de recursos de uma empresa
+Descrição: Recolher, gerir e interpretar os dados relevantes para as empresas relativamente a expedição, pagamento, inventário, recursos e fabrico, utilizando software de gestão empresarial específico. São utilizados softwares como Microsoft Dynamics, SAP ERP, Oracle ERP.
+
+Ocupação: Operador de projetores de seguimento/Operadora de projetores de seguimento
+=====================================================================================
+
+Skill: operar holofotes
+Descrição: Operar os holofotes durante um espetáculo ao vivo com base em indicações visuais ou documentação.
+
+Skill: trabalhar ergonomicamente
+Descrição: Aplicar princípios de ergonomia na organização do local de trabalho, bem como no manuseamento manual de equipamento e materiais.
+Relacionadas:
+   - trabalhar com respeito pela própria segurança
+
+
+Skill: compreender conceitos artísticos
+Descrição: Interpretar a explicação ou demonstração do artista quanto aos seus conceitos, conceções e processos artísticos, e esforçar-se por partilhar a sua visão.
+
+Skill: comunicar durante um espetáculo
+Descrição: Comunicar eficazmente com outros profissionais durante um espetáculo ao vivo, antecipando eventuais problemas.
+
+Skill: trabalhar em segurança com máquinas
+Descrição: Verificar e trabalhar em segurança com máquinas e equipamentos necessários para o seu trabalho, de acordo com manuais e instruções.
+Relacionadas:
+   - trabalhar com respeito pela própria segurança
+
+
+Skill: utilizar equipamento de proteção pessoal
+Descrição: Utilizar equipamento de proteção de acordo com as indicações dadas na formação, com as instruções e com os manuais. Inspecionar o equipamento e utilizá-lo de forma compatível.
+Relacionadas:
+   - trabalhar com respeito pela própria segurança
+
+   - equipamentos de proteção individual
+
+
+Skill: adaptar-se às necessidades criativas dos artistas
+Descrição: Trabalhar com os artistas, procurando compreender a sua visão criativa e adaptar-se a essa visão. Explorar todos os seus talentos e aptidões para alcançar o melhor resultado possível.
+
+Skill: prevenir incêndios em espaços de representação
+Descrição: Tomar medidas para prevenir incêndios em espaços de representação. Assegurar-se de que o espaço está em conformidade com as regras de segurança contra incêndios e possui sistemas de aspersores e extintores de incêndios nos locais necessários. Certificar-se de que o pessoal que trabalha no espaço conhece as medidas de prevenção contra incêndios.
+Relacionadas:
+   - regulamentos de segurança contra incêndios
+
+   - procedimentos de prevenção de incêndios
+
+
+Skill: desmontar equipamento eletrónico
+Descrição: Retirar e guardar, de forma segura, vários tipos de equipamento eletrónico após a sua utilização.
+
+Skill: preparar o ambiente pessoal de trabalho
+Descrição: Corrigir parâmetros ou posições dos instrumentos de trabalho e proceder ao seu ajuste antes do início das operações.
+
+Skill: utilizar equipamento de comunicação
+Descrição: Instalar, testar e operar diferentes tipos de equipamento de comunicação, tais como equipamento de transmissão, equipamento de rede digital ou equipamento de telecomunicações.
+
+Skill: reunir equipamento de representação
+Descrição: Instalar equipamento de som, de luz e de vídeo em palco antes da representação, em conformidade com as especificações.
+
+Skill: trabalhar em segurança com sistemas elétricos móveis sob supervisão
+Descrição: Tomar as precauções necessárias, assegurando em simultâneo a distribuição de energia temporária para fins de instalações de arte e espetáculos sob supervisão.
+Relacionadas:
+   - trabalhar com respeito pela própria segurança
+
+
+Skill: trabalhar com respeito pela própria segurança
+Descrição: Aplicar as regras de segurança em conformidade com a formação e as instruções e com base numa boa compreensão das medidas de prevenção e dos riscos para a sua saúde e segurança pessoais.
+
+Skill: respeitar regras de segurança nas práticas de trabalho
+Descrição: Aplicar princípios, políticas e regulamentos institucionais destinados a garantir um local de trabalho seguro para todos os trabalhadores.
+
+Skill: preparar holofotes
+Descrição: Preparar e testar holofotes em diferentes tipos de locais.
+
+Skill: armazenar equipamento de espetáculos
+Descrição: Desmontar equipamentos de som, de luz e de vídeo após um espetáculo e guardá-los em local seguro.
+
+Skill: preparar o equipamento no tempo certo
+Descrição: Certificar-se de que o equipamento é preparado de acordo com os prazos e os horários.
+
+Skill: seguir procedimentos de segurança em trabalhos em altura
+Descrição: Tomar as precauções necessárias e seguir um conjunto de medidas para avaliar, prevenir e fazer face aos riscos ao trabalhar a grande distância do solo. Evitar pôr em perigo as pessoas que trabalham por baixo destas estruturas e evitar quedas a partir de escadas, andaimes móveis, pontes de trabalho fixas, ascensores individuais, etc., uma vez que podem causar mortes ou ferimentos graves.
+Relacionadas:
+   - trabalhar com respeito pela própria segurança
+
+
+Skill: intervir no combate ao fogo
+Descrição: Intervir em caso de incêndio, a fim de extinguir o fogo ou limitar os seus efeitos de acordo com a formação e os procedimentos, enquanto se aguarda a chegada dos serviços de emergência.
+
+Skill: empacotar equipamento eletrónico
+Descrição: Empacotar de forma segura equipamentos eletrónicos sensíveis para fins de armazenamento e transporte.
+Relacionadas:
+   - normas dos equipamentos eletrónicos
+
+   - eletrónica
+
+
+Skill: identificar os recursos técnicos necessários para espetáculos
+Descrição: Identificar o equipamento técnico necessário para ensaios e espetáculos e os elementos de produção necessários, tais como cenários, adereços e guarda-roupa.
+
+Skill: coordenar o trabalho dos artistas e outros colaboradores num espetáculo
+Descrição: Reorientar o trabalho de colaboradores em espetáculos, como músicos, bailarinos e atores, bem como de colaboradores artísticos e técnicos, como cenógrafos, operadores de iluminação e diretores de cena.
+
+Skill: conservar documentos de administração pessoal
+Descrição: Arquivar e organizar de forma exaustiva os documentos de administração pessoal.
+
+Skill: gerir o desenvolvimento profissional pessoal
+Descrição: Assumir a responsabilidade pela aprendizagem ao longo da vida e pelo desenvolvimento profissional contínuo. Participar em programas de aprendizagem para adquirir e aperfeiçoar competências profissionais. Identificar os domínios prioritários para o desenvolvimento profissional, com base numa reflexão sobre práticas próprias e através do contacto com os seus pares e as partes interessadas.
+Relacionadas:
+   - desenvolvimento pessoal
+
+   - teorias de desenvolvimento da personalidade
+
+
+Skill: desenvolver uma rede de contactos profissional
+Descrição: Abordar e reunir-se com pessoas num contexto profissional. Procurar pontos em comum e usar esses contactos para benefício mútuo. Manter-se a par das pessoas na sua rede profissional, bem como das suas atividades.
+PS >
